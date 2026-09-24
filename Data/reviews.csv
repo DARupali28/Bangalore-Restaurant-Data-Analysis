@@ -1,0 +1,1001 @@
+review_id,restaurant_id,review_date,rating,review_text
+REV00001,R0067,2026-02-10,2,"Loved the food, will visit again"
+REV00002,R0072,2025-09-04,4,Excellent taste and ambience
+REV00003,R0062,2026-01-22,3,Great food and good service
+REV00004,R0059,2025-12-15,3,Average experience
+REV00005,R0062,2026-08-19,4,Service was a little slow
+REV00006,R0022,2026-01-23,4,Food was okay but could be better
+REV00007,R0049,2026-04-26,5,Great food and good service
+REV00008,R0015,2025-09-30,5,Excellent taste and ambience
+REV00009,R0058,2025-11-11,4,Food was okay but could be better
+REV00010,R0059,2025-08-17,4,Great food and good service
+REV00011,R0028,2025-01-02,3,"Loved the food, will visit again"
+REV00012,R0082,2026-05-26,3,Great food and good service
+REV00013,R0030,2025-06-20,5,Average experience
+REV00014,R0094,2026-07-21,4,Great food and good service
+REV00015,R0040,2025-06-29,4,Food was okay but could be better
+REV00016,R0095,2026-07-19,3,Service was a little slow
+REV00017,R0052,2026-01-02,4,Great food and good service
+REV00018,R0044,2025-04-08,4,Portions were good
+REV00019,R0032,2025-03-13,4,Great food and good service
+REV00020,R0042,2025-05-19,3,Service was a little slow
+REV00021,R0043,2026-05-21,4,Average experience
+REV00022,R0085,2026-02-28,4,Service was a little slow
+REV00023,R0056,2026-05-08,4,Food was tasty and fresh
+REV00024,R0054,2025-08-21,4,Great food and good service
+REV00025,R0099,2025-05-29,3,Food was tasty and fresh
+REV00026,R0066,2025-03-04,3,Excellent taste and ambience
+REV00027,R0083,2025-01-06,5,Food was tasty and fresh
+REV00028,R0056,2025-01-28,5,Nice ambience and friendly staff
+REV00029,R0038,2025-10-26,3,Good value for money
+REV00030,R0058,2025-09-26,5,Good value for money
+REV00031,R0058,2025-09-04,5,Food was tasty and fresh
+REV00032,R0058,2025-09-09,5,Food was tasty and fresh
+REV00033,R0056,2025-07-29,3,Excellent taste and ambience
+REV00034,R0097,2026-03-23,3,Excellent taste and ambience
+REV00035,R0088,2026-05-07,4,Portions were good
+REV00036,R0016,2025-07-03,4,Excellent taste and ambience
+REV00037,R0014,2026-08-02,5,Food was okay but could be better
+REV00038,R0024,2026-05-25,3,"Loved the food, will visit again"
+REV00039,R0073,2025-01-10,4,Food was tasty and fresh
+REV00040,R0067,2025-06-01,3,Average experience
+REV00041,R0067,2025-06-11,2,Service was a little slow
+REV00042,R0095,2026-03-10,5,Good value for money
+REV00043,R0012,2025-07-02,4,Great food and good service
+REV00044,R0089,2026-08-01,5,Food was tasty and fresh
+REV00045,R0021,2026-04-14,5,Great food and good service
+REV00046,R0038,2025-05-23,4,Food was okay but could be better
+REV00047,R0052,2025-03-11,5,Great food and good service
+REV00048,R0047,2026-04-16,5,Good value for money
+REV00049,R0091,2026-07-06,5,Nice ambience and friendly staff
+REV00050,R0010,2025-12-11,5,Good value for money
+REV00051,R0072,2025-01-05,5,Food was okay but could be better
+REV00052,R0053,2025-11-07,5,Average experience
+REV00053,R0056,2025-07-16,4,Portions were good
+REV00054,R0059,2026-05-29,3,Great food and good service
+REV00055,R0060,2025-04-18,5,Service was a little slow
+REV00056,R0090,2026-03-21,4,"Loved the food, will visit again"
+REV00057,R0092,2026-05-10,3,Nice ambience and friendly staff
+REV00058,R0031,2026-07-18,4,Portions were good
+REV00059,R0076,2025-04-21,3,Great food and good service
+REV00060,R0065,2025-07-10,4,Food was okay but could be better
+REV00061,R0054,2025-01-22,4,"Loved the food, will visit again"
+REV00062,R0099,2025-07-27,4,Excellent taste and ambience
+REV00063,R0062,2026-08-25,3,Great food and good service
+REV00064,R0038,2026-05-11,5,"Loved the food, will visit again"
+REV00065,R0035,2026-03-21,4,"Loved the food, will visit again"
+REV00066,R0027,2025-09-26,3,Great food and good service
+REV00067,R0031,2025-01-06,4,Average experience
+REV00068,R0086,2026-07-24,4,Great food and good service
+REV00069,R0023,2025-01-05,4,Food was okay but could be better
+REV00070,R0020,2026-01-25,4,"Loved the food, will visit again"
+REV00071,R0059,2025-09-06,4,Service was a little slow
+REV00072,R0044,2026-02-03,4,Food was tasty and fresh
+REV00073,R0063,2025-12-03,4,Food was tasty and fresh
+REV00074,R0019,2025-05-02,4,Excellent taste and ambience
+REV00075,R0024,2025-12-29,2,Nice ambience and friendly staff
+REV00076,R0065,2025-12-21,5,Good value for money
+REV00077,R0013,2026-04-08,5,Good value for money
+REV00078,R0040,2025-07-06,5,Good value for money
+REV00079,R0045,2025-07-13,4,Food was tasty and fresh
+REV00080,R0008,2025-06-20,2,Portions were good
+REV00081,R0045,2025-05-05,2,Portions were good
+REV00082,R0080,2026-04-03,4,"Loved the food, will visit again"
+REV00083,R0018,2026-01-17,3,Service was a little slow
+REV00084,R0069,2025-12-16,2,"Loved the food, will visit again"
+REV00085,R0056,2025-01-04,4,Service was a little slow
+REV00086,R0006,2025-10-15,5,Food was okay but could be better
+REV00087,R0018,2026-04-02,4,Average experience
+REV00088,R0074,2025-07-31,2,"Loved the food, will visit again"
+REV00089,R0063,2026-02-20,5,"Loved the food, will visit again"
+REV00090,R0070,2025-10-18,4,"Loved the food, will visit again"
+REV00091,R0065,2026-05-30,5,Portions were good
+REV00092,R0060,2025-03-17,4,Service was a little slow
+REV00093,R0014,2025-08-21,3,Portions were good
+REV00094,R0023,2025-03-24,4,Average experience
+REV00095,R0047,2025-10-08,4,Nice ambience and friendly staff
+REV00096,R0025,2026-08-09,4,Food was okay but could be better
+REV00097,R0058,2025-01-25,5,Food was tasty and fresh
+REV00098,R0048,2025-04-09,4,Average experience
+REV00099,R0021,2026-03-24,4,Nice ambience and friendly staff
+REV00100,R0076,2025-05-01,4,Food was okay but could be better
+REV00101,R0082,2025-07-06,1,Food was okay but could be better
+REV00102,R0016,2025-09-19,5,Portions were good
+REV00103,R0047,2025-11-29,4,Good value for money
+REV00104,R0002,2026-04-19,3,Excellent taste and ambience
+REV00105,R0007,2026-07-29,3,Excellent taste and ambience
+REV00106,R0012,2025-05-21,3,Great food and good service
+REV00107,R0063,2026-06-04,3,Average experience
+REV00108,R0090,2025-06-24,4,Average experience
+REV00109,R0030,2025-03-12,3,Good value for money
+REV00110,R0037,2025-07-14,3,Good value for money
+REV00111,R0047,2025-01-21,3,Average experience
+REV00112,R0027,2025-11-07,4,Good value for money
+REV00113,R0029,2025-06-13,4,Nice ambience and friendly staff
+REV00114,R0022,2025-08-12,4,Nice ambience and friendly staff
+REV00115,R0069,2026-04-16,3,Nice ambience and friendly staff
+REV00116,R0013,2026-03-03,4,"Loved the food, will visit again"
+REV00117,R0093,2026-01-02,4,Good value for money
+REV00118,R0073,2026-07-04,3,"Loved the food, will visit again"
+REV00119,R0079,2026-01-23,5,Nice ambience and friendly staff
+REV00120,R0082,2026-06-01,4,Good value for money
+REV00121,R0087,2025-10-27,4,Nice ambience and friendly staff
+REV00122,R0077,2026-08-30,5,Service was a little slow
+REV00123,R0068,2025-07-08,5,Food was tasty and fresh
+REV00124,R0095,2025-06-30,5,Nice ambience and friendly staff
+REV00125,R0059,2025-11-12,3,Excellent taste and ambience
+REV00126,R0017,2025-05-24,2,Service was a little slow
+REV00127,R0031,2025-12-07,5,Good value for money
+REV00128,R0071,2026-02-14,4,Nice ambience and friendly staff
+REV00129,R0012,2026-01-21,4,Food was okay but could be better
+REV00130,R0024,2025-04-18,2,Food was tasty and fresh
+REV00131,R0026,2025-11-27,4,Food was tasty and fresh
+REV00132,R0012,2025-07-14,4,Food was okay but could be better
+REV00133,R0027,2025-11-12,5,"Loved the food, will visit again"
+REV00134,R0030,2026-08-19,5,"Loved the food, will visit again"
+REV00135,R0028,2026-03-20,3,Food was okay but could be better
+REV00136,R0040,2025-12-27,4,"Loved the food, will visit again"
+REV00137,R0042,2025-08-25,5,"Loved the food, will visit again"
+REV00138,R0057,2026-04-13,3,Nice ambience and friendly staff
+REV00139,R0027,2026-04-19,3,Portions were good
+REV00140,R0066,2025-01-12,5,Excellent taste and ambience
+REV00141,R0073,2026-05-20,4,Nice ambience and friendly staff
+REV00142,R0048,2025-02-08,5,Nice ambience and friendly staff
+REV00143,R0065,2026-01-21,5,Portions were good
+REV00144,R0078,2025-07-13,5,Average experience
+REV00145,R0028,2025-05-08,4,Food was okay but could be better
+REV00146,R0076,2025-05-30,2,Excellent taste and ambience
+REV00147,R0070,2025-07-25,4,Good value for money
+REV00148,R0056,2025-04-06,5,Great food and good service
+REV00149,R0045,2025-07-14,4,Service was a little slow
+REV00150,R0096,2025-05-03,4,Average experience
+REV00151,R0068,2026-01-31,3,Great food and good service
+REV00152,R0087,2025-05-22,5,Service was a little slow
+REV00153,R0046,2026-01-07,4,Service was a little slow
+REV00154,R0078,2025-02-12,5,Great food and good service
+REV00155,R0031,2025-04-20,4,"Loved the food, will visit again"
+REV00156,R0062,2025-09-08,2,Good value for money
+REV00157,R0035,2026-05-26,4,Portions were good
+REV00158,R0095,2026-05-23,5,Portions were good
+REV00159,R0072,2026-08-31,4,Service was a little slow
+REV00160,R0054,2025-12-10,4,"Loved the food, will visit again"
+REV00161,R0090,2026-03-13,3,Great food and good service
+REV00162,R0081,2025-11-22,4,Excellent taste and ambience
+REV00163,R0029,2025-07-07,3,Food was tasty and fresh
+REV00164,R0069,2026-04-20,4,Good value for money
+REV00165,R0020,2025-04-12,4,Portions were good
+REV00166,R0086,2026-04-21,4,Good value for money
+REV00167,R0053,2025-07-19,4,Food was okay but could be better
+REV00168,R0090,2025-01-26,5,Service was a little slow
+REV00169,R0043,2026-03-16,5,Food was tasty and fresh
+REV00170,R0039,2026-03-11,3,Service was a little slow
+REV00171,R0078,2026-06-07,4,"Loved the food, will visit again"
+REV00172,R0098,2026-03-03,4,Food was tasty and fresh
+REV00173,R0064,2026-01-04,5,Food was okay but could be better
+REV00174,R0092,2026-07-31,2,Food was tasty and fresh
+REV00175,R0072,2026-01-11,5,Service was a little slow
+REV00176,R0011,2025-12-25,4,Good value for money
+REV00177,R0025,2026-07-17,5,Average experience
+REV00178,R0037,2025-02-15,4,Average experience
+REV00179,R0088,2025-04-26,3,"Loved the food, will visit again"
+REV00180,R0004,2025-03-16,5,Great food and good service
+REV00181,R0007,2026-03-14,1,Portions were good
+REV00182,R0087,2026-03-05,4,Service was a little slow
+REV00183,R0028,2025-02-23,2,Food was tasty and fresh
+REV00184,R0097,2025-06-13,4,Food was tasty and fresh
+REV00185,R0030,2026-02-18,3,Good value for money
+REV00186,R0093,2025-03-20,5,Excellent taste and ambience
+REV00187,R0089,2026-07-13,3,Average experience
+REV00188,R0064,2025-09-03,4,Good value for money
+REV00189,R0038,2026-06-03,2,"Loved the food, will visit again"
+REV00190,R0081,2025-06-18,3,Food was okay but could be better
+REV00191,R0010,2025-11-02,4,"Loved the food, will visit again"
+REV00192,R0091,2026-05-28,4,Average experience
+REV00193,R0060,2026-03-03,5,"Loved the food, will visit again"
+REV00194,R0090,2025-09-17,4,Great food and good service
+REV00195,R0071,2025-10-18,5,Excellent taste and ambience
+REV00196,R0024,2025-10-19,3,Nice ambience and friendly staff
+REV00197,R0043,2025-06-05,5,Food was tasty and fresh
+REV00198,R0047,2025-07-06,4,Good value for money
+REV00199,R0037,2026-06-26,4,"Loved the food, will visit again"
+REV00200,R0075,2025-03-07,5,Good value for money
+REV00201,R0018,2025-09-10,3,Great food and good service
+REV00202,R0058,2026-08-22,4,Food was okay but could be better
+REV00203,R0006,2026-08-30,5,Average experience
+REV00204,R0030,2025-02-02,2,Food was okay but could be better
+REV00205,R0012,2025-04-27,3,Nice ambience and friendly staff
+REV00206,R0052,2026-05-02,5,Average experience
+REV00207,R0044,2026-02-26,4,Average experience
+REV00208,R0058,2025-12-30,4,Food was okay but could be better
+REV00209,R0011,2025-04-08,4,Excellent taste and ambience
+REV00210,R0022,2026-03-26,5,"Loved the food, will visit again"
+REV00211,R0042,2026-07-21,4,Service was a little slow
+REV00212,R0028,2025-08-12,5,Food was tasty and fresh
+REV00213,R0049,2026-02-20,3,Average experience
+REV00214,R0087,2025-07-16,5,Food was okay but could be better
+REV00215,R0053,2025-05-03,4,Food was tasty and fresh
+REV00216,R0083,2025-12-14,5,Food was tasty and fresh
+REV00217,R0006,2025-12-15,5,Food was tasty and fresh
+REV00218,R0067,2026-06-04,2,Service was a little slow
+REV00219,R0084,2026-03-27,4,Excellent taste and ambience
+REV00220,R0087,2025-01-16,5,Food was tasty and fresh
+REV00221,R0009,2025-11-23,4,Service was a little slow
+REV00222,R0098,2026-03-01,4,"Loved the food, will visit again"
+REV00223,R0024,2025-09-23,1,Excellent taste and ambience
+REV00224,R0056,2026-01-04,5,Portions were good
+REV00225,R0050,2026-05-09,4,Portions were good
+REV00226,R0036,2025-06-20,4,"Loved the food, will visit again"
+REV00227,R0069,2025-11-11,4,Portions were good
+REV00228,R0092,2025-06-28,2,Excellent taste and ambience
+REV00229,R0027,2026-04-13,3,Great food and good service
+REV00230,R0068,2025-09-06,5,Nice ambience and friendly staff
+REV00231,R0067,2026-03-08,3,Service was a little slow
+REV00232,R0094,2026-03-05,4,Average experience
+REV00233,R0025,2025-03-07,5,Food was okay but could be better
+REV00234,R0045,2026-01-05,3,Nice ambience and friendly staff
+REV00235,R0055,2026-01-09,5,Excellent taste and ambience
+REV00236,R0065,2026-07-17,4,Service was a little slow
+REV00237,R0086,2025-03-17,5,Service was a little slow
+REV00238,R0092,2025-10-16,3,Food was tasty and fresh
+REV00239,R0028,2025-06-26,4,Average experience
+REV00240,R0026,2026-09-02,4,Food was tasty and fresh
+REV00241,R0040,2025-12-09,2,"Loved the food, will visit again"
+REV00242,R0022,2026-06-12,5,Food was tasty and fresh
+REV00243,R0060,2025-03-26,5,Portions were good
+REV00244,R0065,2025-03-05,5,Service was a little slow
+REV00245,R0043,2026-08-12,5,Nice ambience and friendly staff
+REV00246,R0087,2026-04-08,5,Great food and good service
+REV00247,R0021,2026-04-11,5,Excellent taste and ambience
+REV00248,R0047,2026-03-11,2,Food was okay but could be better
+REV00249,R0007,2025-12-13,3,Portions were good
+REV00250,R0057,2026-06-17,5,Food was okay but could be better
+REV00251,R0040,2025-12-09,4,Good value for money
+REV00252,R0092,2026-02-05,5,Portions were good
+REV00253,R0066,2026-07-04,2,"Loved the food, will visit again"
+REV00254,R0045,2025-03-16,3,Nice ambience and friendly staff
+REV00255,R0040,2025-08-13,4,Excellent taste and ambience
+REV00256,R0019,2025-05-26,3,Great food and good service
+REV00257,R0088,2025-06-02,4,Great food and good service
+REV00258,R0098,2025-12-11,4,Nice ambience and friendly staff
+REV00259,R0093,2026-06-12,5,"Loved the food, will visit again"
+REV00260,R0073,2025-02-11,5,Food was tasty and fresh
+REV00261,R0097,2026-03-15,3,Nice ambience and friendly staff
+REV00262,R0034,2025-12-11,3,"Loved the food, will visit again"
+REV00263,R0021,2025-02-17,5,Service was a little slow
+REV00264,R0031,2025-01-10,3,Portions were good
+REV00265,R0018,2025-11-25,3,Good value for money
+REV00266,R0063,2025-06-17,2,Portions were good
+REV00267,R0009,2025-05-23,3,Food was tasty and fresh
+REV00268,R0052,2025-03-10,3,Service was a little slow
+REV00269,R0005,2026-08-28,5,Good value for money
+REV00270,R0042,2025-11-26,5,Portions were good
+REV00271,R0008,2026-06-05,2,Average experience
+REV00272,R0011,2026-04-30,4,Food was okay but could be better
+REV00273,R0013,2026-07-03,3,Food was okay but could be better
+REV00274,R0073,2025-11-04,3,Service was a little slow
+REV00275,R0002,2026-05-02,4,Average experience
+REV00276,R0023,2025-07-25,4,Food was okay but could be better
+REV00277,R0051,2025-07-02,4,Great food and good service
+REV00278,R0002,2025-01-13,3,Food was okay but could be better
+REV00279,R0092,2025-04-09,3,Nice ambience and friendly staff
+REV00280,R0075,2025-07-11,3,Average experience
+REV00281,R0083,2026-01-19,5,Excellent taste and ambience
+REV00282,R0068,2025-01-15,4,Portions were good
+REV00283,R0055,2026-04-12,4,"Loved the food, will visit again"
+REV00284,R0100,2026-06-03,4,Food was tasty and fresh
+REV00285,R0049,2025-08-20,4,Food was tasty and fresh
+REV00286,R0072,2026-08-15,4,Good value for money
+REV00287,R0083,2025-01-07,4,Food was okay but could be better
+REV00288,R0034,2026-07-02,4,Portions were good
+REV00289,R0006,2025-10-12,5,Portions were good
+REV00290,R0055,2025-06-01,5,Food was okay but could be better
+REV00291,R0098,2025-01-21,4,"Loved the food, will visit again"
+REV00292,R0056,2025-08-10,4,Excellent taste and ambience
+REV00293,R0051,2025-02-28,4,Service was a little slow
+REV00294,R0009,2025-07-10,4,Excellent taste and ambience
+REV00295,R0056,2026-01-22,5,"Loved the food, will visit again"
+REV00296,R0007,2025-10-10,4,Great food and good service
+REV00297,R0091,2025-03-28,5,Portions were good
+REV00298,R0075,2025-10-25,4,Average experience
+REV00299,R0033,2026-01-18,4,Great food and good service
+REV00300,R0099,2026-03-08,3,Average experience
+REV00301,R0048,2026-03-22,5,Food was tasty and fresh
+REV00302,R0014,2026-03-23,5,Great food and good service
+REV00303,R0024,2026-05-17,3,Nice ambience and friendly staff
+REV00304,R0079,2025-03-20,4,"Loved the food, will visit again"
+REV00305,R0027,2026-08-14,4,Food was tasty and fresh
+REV00306,R0062,2026-07-13,5,Portions were good
+REV00307,R0098,2025-09-13,3,Good value for money
+REV00308,R0013,2025-01-01,4,Nice ambience and friendly staff
+REV00309,R0062,2025-12-15,4,Nice ambience and friendly staff
+REV00310,R0082,2026-05-17,2,Service was a little slow
+REV00311,R0093,2025-12-13,4,"Loved the food, will visit again"
+REV00312,R0002,2025-07-28,4,Average experience
+REV00313,R0078,2025-12-06,5,Average experience
+REV00314,R0061,2025-01-22,5,Food was tasty and fresh
+REV00315,R0016,2025-09-30,4,Food was okay but could be better
+REV00316,R0002,2025-05-12,5,Average experience
+REV00317,R0039,2025-11-21,4,Average experience
+REV00318,R0020,2026-03-24,3,Food was tasty and fresh
+REV00319,R0037,2025-09-22,4,Good value for money
+REV00320,R0086,2025-10-05,3,Nice ambience and friendly staff
+REV00321,R0055,2026-09-01,5,Nice ambience and friendly staff
+REV00322,R0071,2025-04-07,5,Great food and good service
+REV00323,R0088,2025-10-10,3,Great food and good service
+REV00324,R0028,2025-04-16,3,Portions were good
+REV00325,R0055,2025-04-23,5,Average experience
+REV00326,R0043,2025-10-22,5,Food was okay but could be better
+REV00327,R0081,2025-09-05,4,Nice ambience and friendly staff
+REV00328,R0007,2025-10-23,3,"Loved the food, will visit again"
+REV00329,R0086,2025-02-21,4,Nice ambience and friendly staff
+REV00330,R0029,2026-04-19,4,Portions were good
+REV00331,R0047,2025-07-17,2,Good value for money
+REV00332,R0088,2026-02-15,3,"Loved the food, will visit again"
+REV00333,R0072,2026-06-20,3,Service was a little slow
+REV00334,R0083,2026-07-28,4,"Loved the food, will visit again"
+REV00335,R0075,2026-03-01,4,Food was okay but could be better
+REV00336,R0098,2026-06-27,4,Nice ambience and friendly staff
+REV00337,R0017,2025-07-26,4,Excellent taste and ambience
+REV00338,R0022,2026-07-22,4,Service was a little slow
+REV00339,R0019,2026-06-12,4,"Loved the food, will visit again"
+REV00340,R0040,2026-06-22,3,Great food and good service
+REV00341,R0100,2025-06-11,3,Good value for money
+REV00342,R0078,2026-08-13,4,Service was a little slow
+REV00343,R0096,2025-05-05,3,Great food and good service
+REV00344,R0012,2025-05-30,4,Portions were good
+REV00345,R0084,2025-02-27,4,"Loved the food, will visit again"
+REV00346,R0083,2025-02-14,5,Great food and good service
+REV00347,R0023,2026-07-21,5,Portions were good
+REV00348,R0069,2025-05-10,4,Service was a little slow
+REV00349,R0097,2025-11-30,5,Food was okay but could be better
+REV00350,R0035,2025-03-20,4,Food was tasty and fresh
+REV00351,R0087,2026-08-06,4,Food was tasty and fresh
+REV00352,R0058,2025-02-01,5,Nice ambience and friendly staff
+REV00353,R0043,2025-09-27,5,Good value for money
+REV00354,R0096,2026-06-02,3,Service was a little slow
+REV00355,R0010,2025-05-06,4,Great food and good service
+REV00356,R0097,2025-03-15,2,Food was tasty and fresh
+REV00357,R0063,2025-02-25,4,Portions were good
+REV00358,R0032,2026-06-11,5,Great food and good service
+REV00359,R0064,2025-05-10,5,Good value for money
+REV00360,R0071,2025-01-13,4,Portions were good
+REV00361,R0087,2025-03-15,4,Portions were good
+REV00362,R0048,2026-03-03,4,Average experience
+REV00363,R0038,2026-01-01,4,Excellent taste and ambience
+REV00364,R0097,2025-08-17,2,Portions were good
+REV00365,R0002,2025-12-03,3,Great food and good service
+REV00366,R0050,2026-01-03,4,Excellent taste and ambience
+REV00367,R0058,2025-06-01,4,Food was okay but could be better
+REV00368,R0017,2025-10-01,5,Food was okay but could be better
+REV00369,R0084,2025-03-14,4,Great food and good service
+REV00370,R0029,2025-05-12,4,Nice ambience and friendly staff
+REV00371,R0020,2025-09-22,5,Average experience
+REV00372,R0019,2026-06-22,5,Portions were good
+REV00373,R0026,2025-12-04,4,Average experience
+REV00374,R0003,2026-03-26,3,Great food and good service
+REV00375,R0042,2026-08-11,2,Great food and good service
+REV00376,R0056,2025-02-18,4,Service was a little slow
+REV00377,R0026,2025-02-15,5,Good value for money
+REV00378,R0016,2026-02-12,4,"Loved the food, will visit again"
+REV00379,R0062,2025-04-28,3,Food was okay but could be better
+REV00380,R0072,2025-06-06,4,Service was a little slow
+REV00381,R0092,2025-03-12,3,Portions were good
+REV00382,R0078,2025-03-31,5,Service was a little slow
+REV00383,R0033,2026-07-29,3,Food was tasty and fresh
+REV00384,R0052,2025-03-09,5,Food was okay but could be better
+REV00385,R0075,2026-07-15,5,Food was okay but could be better
+REV00386,R0044,2026-08-13,4,Excellent taste and ambience
+REV00387,R0098,2026-08-01,4,Food was okay but could be better
+REV00388,R0073,2025-03-28,5,Service was a little slow
+REV00389,R0081,2026-08-19,4,Good value for money
+REV00390,R0059,2026-07-12,5,Food was tasty and fresh
+REV00391,R0055,2025-03-19,5,Food was tasty and fresh
+REV00392,R0034,2026-07-10,4,"Loved the food, will visit again"
+REV00393,R0077,2026-01-08,5,Food was tasty and fresh
+REV00394,R0071,2026-04-25,4,Food was tasty and fresh
+REV00395,R0006,2025-12-23,5,Service was a little slow
+REV00396,R0059,2025-03-10,4,Food was tasty and fresh
+REV00397,R0069,2025-09-28,3,Food was tasty and fresh
+REV00398,R0093,2026-06-13,5,Food was okay but could be better
+REV00399,R0021,2026-02-26,5,Excellent taste and ambience
+REV00400,R0088,2026-07-01,4,Service was a little slow
+REV00401,R0014,2025-12-30,5,Service was a little slow
+REV00402,R0034,2025-06-18,3,Food was okay but could be better
+REV00403,R0017,2026-05-31,3,Food was okay but could be better
+REV00404,R0013,2025-04-16,3,Average experience
+REV00405,R0086,2025-01-19,4,Nice ambience and friendly staff
+REV00406,R0012,2025-03-22,5,Food was okay but could be better
+REV00407,R0098,2025-09-24,3,Portions were good
+REV00408,R0012,2025-01-02,3,Excellent taste and ambience
+REV00409,R0011,2026-04-14,4,Good value for money
+REV00410,R0008,2026-04-22,3,Food was okay but could be better
+REV00411,R0076,2025-08-24,5,Nice ambience and friendly staff
+REV00412,R0094,2025-01-20,4,Excellent taste and ambience
+REV00413,R0087,2026-02-26,3,"Loved the food, will visit again"
+REV00414,R0061,2026-07-10,5,"Loved the food, will visit again"
+REV00415,R0044,2025-10-21,4,Excellent taste and ambience
+REV00416,R0051,2025-09-23,4,Excellent taste and ambience
+REV00417,R0072,2025-02-26,3,Service was a little slow
+REV00418,R0088,2026-03-19,3,Nice ambience and friendly staff
+REV00419,R0056,2025-10-25,4,Food was okay but could be better
+REV00420,R0052,2026-06-28,5,Food was okay but could be better
+REV00421,R0026,2025-02-26,5,Good value for money
+REV00422,R0087,2026-04-22,5,Service was a little slow
+REV00423,R0033,2025-08-17,3,Nice ambience and friendly staff
+REV00424,R0084,2026-03-11,5,Nice ambience and friendly staff
+REV00425,R0018,2026-06-26,3,Average experience
+REV00426,R0010,2025-12-09,3,Good value for money
+REV00427,R0049,2026-08-24,4,Good value for money
+REV00428,R0042,2025-07-29,5,Average experience
+REV00429,R0094,2025-11-06,5,Great food and good service
+REV00430,R0012,2026-06-30,4,Average experience
+REV00431,R0008,2026-02-14,4,"Loved the food, will visit again"
+REV00432,R0013,2025-12-05,2,Food was tasty and fresh
+REV00433,R0090,2025-09-12,3,Nice ambience and friendly staff
+REV00434,R0075,2025-04-18,4,Nice ambience and friendly staff
+REV00435,R0077,2025-10-09,5,Food was okay but could be better
+REV00436,R0088,2025-07-23,4,Service was a little slow
+REV00437,R0040,2026-02-01,4,Average experience
+REV00438,R0075,2025-11-26,4,Good value for money
+REV00439,R0077,2025-12-28,4,Excellent taste and ambience
+REV00440,R0007,2025-02-09,2,Food was tasty and fresh
+REV00441,R0015,2026-07-31,5,Good value for money
+REV00442,R0011,2025-01-26,3,Average experience
+REV00443,R0023,2025-08-25,4,Great food and good service
+REV00444,R0091,2026-05-02,3,Excellent taste and ambience
+REV00445,R0077,2025-07-08,5,Good value for money
+REV00446,R0080,2026-02-13,4,Food was okay but could be better
+REV00447,R0097,2025-10-11,3,Excellent taste and ambience
+REV00448,R0099,2025-07-16,3,Nice ambience and friendly staff
+REV00449,R0098,2025-02-11,3,"Loved the food, will visit again"
+REV00450,R0068,2025-06-30,5,Great food and good service
+REV00451,R0071,2025-11-03,5,Food was okay but could be better
+REV00452,R0043,2026-01-12,5,"Loved the food, will visit again"
+REV00453,R0015,2025-11-03,4,Food was okay but could be better
+REV00454,R0012,2025-01-04,3,Nice ambience and friendly staff
+REV00455,R0080,2026-06-05,5,Average experience
+REV00456,R0018,2026-05-25,3,Portions were good
+REV00457,R0098,2026-03-01,3,Nice ambience and friendly staff
+REV00458,R0079,2025-01-28,5,Food was okay but could be better
+REV00459,R0080,2026-05-28,4,Service was a little slow
+REV00460,R0096,2026-01-03,3,Excellent taste and ambience
+REV00461,R0035,2025-03-31,5,Great food and good service
+REV00462,R0062,2025-10-21,4,Service was a little slow
+REV00463,R0022,2025-07-18,5,Service was a little slow
+REV00464,R0002,2026-07-15,4,Excellent taste and ambience
+REV00465,R0095,2026-07-14,5,Food was tasty and fresh
+REV00466,R0043,2026-09-02,5,Service was a little slow
+REV00467,R0088,2026-01-02,2,Good value for money
+REV00468,R0080,2026-04-23,4,Good value for money
+REV00469,R0067,2026-05-18,2,Great food and good service
+REV00470,R0076,2025-11-07,4,Average experience
+REV00471,R0056,2025-09-03,5,Average experience
+REV00472,R0084,2025-07-26,5,Service was a little slow
+REV00473,R0028,2025-05-25,3,Nice ambience and friendly staff
+REV00474,R0037,2025-11-29,2,Food was tasty and fresh
+REV00475,R0030,2026-02-24,3,Good value for money
+REV00476,R0084,2025-01-19,5,Service was a little slow
+REV00477,R0044,2025-11-21,4,Service was a little slow
+REV00478,R0010,2025-02-11,3,Portions were good
+REV00479,R0077,2026-06-06,5,"Loved the food, will visit again"
+REV00480,R0091,2026-03-20,4,Food was tasty and fresh
+REV00481,R0021,2025-03-19,5,Average experience
+REV00482,R0030,2025-02-18,4,Portions were good
+REV00483,R0017,2026-04-24,3,Good value for money
+REV00484,R0061,2025-10-23,5,"Loved the food, will visit again"
+REV00485,R0043,2026-01-13,5,Food was okay but could be better
+REV00486,R0095,2025-09-19,5,Portions were good
+REV00487,R0001,2025-04-02,3,Excellent taste and ambience
+REV00488,R0087,2026-01-07,5,Good value for money
+REV00489,R0054,2026-06-14,4,"Loved the food, will visit again"
+REV00490,R0057,2026-08-28,4,Food was tasty and fresh
+REV00491,R0097,2025-11-19,3,Portions were good
+REV00492,R0055,2026-03-12,5,Nice ambience and friendly staff
+REV00493,R0085,2025-07-17,5,Food was tasty and fresh
+REV00494,R0077,2026-05-12,5,Service was a little slow
+REV00495,R0073,2025-09-15,4,Good value for money
+REV00496,R0019,2026-06-13,4,Average experience
+REV00497,R0039,2026-02-28,4,Good value for money
+REV00498,R0025,2025-07-23,4,Good value for money
+REV00499,R0088,2025-01-14,4,Average experience
+REV00500,R0018,2025-02-26,4,Food was tasty and fresh
+REV00501,R0012,2025-07-30,4,Good value for money
+REV00502,R0065,2026-03-09,2,Great food and good service
+REV00503,R0010,2025-05-26,4,Nice ambience and friendly staff
+REV00504,R0039,2025-03-23,5,Excellent taste and ambience
+REV00505,R0054,2026-02-06,4,"Loved the food, will visit again"
+REV00506,R0059,2026-05-26,4,Portions were good
+REV00507,R0073,2026-04-13,4,Portions were good
+REV00508,R0028,2025-07-23,3,Nice ambience and friendly staff
+REV00509,R0078,2026-02-08,4,"Loved the food, will visit again"
+REV00510,R0055,2025-03-09,5,Excellent taste and ambience
+REV00511,R0089,2025-05-20,3,Food was okay but could be better
+REV00512,R0005,2025-06-27,3,Food was okay but could be better
+REV00513,R0012,2026-04-08,5,Food was okay but could be better
+REV00514,R0017,2025-07-15,3,Service was a little slow
+REV00515,R0062,2026-05-13,4,"Loved the food, will visit again"
+REV00516,R0045,2025-11-10,2,Food was tasty and fresh
+REV00517,R0034,2026-05-30,3,"Loved the food, will visit again"
+REV00518,R0086,2025-03-15,5,Food was tasty and fresh
+REV00519,R0067,2026-06-03,2,Excellent taste and ambience
+REV00520,R0066,2025-01-04,3,Food was okay but could be better
+REV00521,R0088,2025-11-21,3,Food was okay but could be better
+REV00522,R0009,2025-10-04,3,Excellent taste and ambience
+REV00523,R0004,2025-11-20,4,Portions were good
+REV00524,R0040,2025-11-06,5,Food was tasty and fresh
+REV00525,R0095,2026-04-06,4,Good value for money
+REV00526,R0046,2025-05-21,3,"Loved the food, will visit again"
+REV00527,R0017,2026-08-12,3,Good value for money
+REV00528,R0066,2025-12-14,3,Food was okay but could be better
+REV00529,R0022,2025-08-15,5,Food was okay but could be better
+REV00530,R0012,2026-08-04,3,Good value for money
+REV00531,R0039,2025-12-19,4,Portions were good
+REV00532,R0040,2025-12-02,5,Food was tasty and fresh
+REV00533,R0003,2025-04-27,3,Excellent taste and ambience
+REV00534,R0010,2025-04-26,3,Nice ambience and friendly staff
+REV00535,R0067,2026-03-23,1,Good value for money
+REV00536,R0057,2026-04-09,4,Portions were good
+REV00537,R0012,2025-04-01,4,"Loved the food, will visit again"
+REV00538,R0038,2025-08-02,5,Good value for money
+REV00539,R0089,2026-08-07,4,Average experience
+REV00540,R0049,2025-02-21,4,Great food and good service
+REV00541,R0022,2025-06-15,4,"Loved the food, will visit again"
+REV00542,R0037,2026-04-23,4,Food was tasty and fresh
+REV00543,R0095,2025-10-27,3,Nice ambience and friendly staff
+REV00544,R0087,2025-08-13,4,"Loved the food, will visit again"
+REV00545,R0035,2026-04-09,5,Average experience
+REV00546,R0092,2025-06-30,2,Service was a little slow
+REV00547,R0045,2025-11-10,4,Food was okay but could be better
+REV00548,R0007,2026-03-02,4,Average experience
+REV00549,R0059,2026-07-19,4,Food was okay but could be better
+REV00550,R0048,2025-12-17,4,Food was tasty and fresh
+REV00551,R0009,2025-01-03,4,Excellent taste and ambience
+REV00552,R0064,2025-01-29,4,Good value for money
+REV00553,R0011,2025-04-12,4,Nice ambience and friendly staff
+REV00554,R0091,2025-06-13,5,Nice ambience and friendly staff
+REV00555,R0065,2026-02-16,5,Service was a little slow
+REV00556,R0001,2025-10-08,4,"Loved the food, will visit again"
+REV00557,R0084,2025-07-29,4,Food was okay but could be better
+REV00558,R0069,2025-09-15,3,Nice ambience and friendly staff
+REV00559,R0060,2025-03-26,4,Great food and good service
+REV00560,R0070,2026-01-22,3,Food was okay but could be better
+REV00561,R0005,2025-12-12,5,"Loved the food, will visit again"
+REV00562,R0026,2026-08-07,3,Average experience
+REV00563,R0015,2026-02-25,4,Food was tasty and fresh
+REV00564,R0052,2025-02-16,4,Excellent taste and ambience
+REV00565,R0080,2026-03-14,4,"Loved the food, will visit again"
+REV00566,R0090,2025-12-24,4,Portions were good
+REV00567,R0011,2025-07-18,3,"Loved the food, will visit again"
+REV00568,R0021,2025-07-19,3,Food was tasty and fresh
+REV00569,R0063,2026-05-13,5,Portions were good
+REV00570,R0093,2025-09-28,5,Food was okay but could be better
+REV00571,R0010,2025-03-25,3,"Loved the food, will visit again"
+REV00572,R0037,2025-12-08,4,Service was a little slow
+REV00573,R0023,2026-02-16,3,"Loved the food, will visit again"
+REV00574,R0031,2025-01-14,4,Average experience
+REV00575,R0097,2026-08-26,2,Excellent taste and ambience
+REV00576,R0077,2026-08-25,5,Food was tasty and fresh
+REV00577,R0049,2025-08-09,5,Average experience
+REV00578,R0042,2025-02-11,5,Good value for money
+REV00579,R0027,2025-03-14,3,Average experience
+REV00580,R0027,2025-05-09,4,Service was a little slow
+REV00581,R0074,2025-05-05,2,Food was tasty and fresh
+REV00582,R0006,2025-11-10,5,"Loved the food, will visit again"
+REV00583,R0053,2026-08-22,5,Nice ambience and friendly staff
+REV00584,R0076,2026-02-08,5,Service was a little slow
+REV00585,R0024,2025-07-28,4,Great food and good service
+REV00586,R0094,2025-04-15,3,Food was tasty and fresh
+REV00587,R0046,2026-05-07,4,Food was okay but could be better
+REV00588,R0077,2026-03-25,5,Excellent taste and ambience
+REV00589,R0074,2025-01-16,4,Great food and good service
+REV00590,R0054,2025-07-26,5,Portions were good
+REV00591,R0098,2025-04-25,5,Good value for money
+REV00592,R0043,2026-04-28,5,Food was okay but could be better
+REV00593,R0075,2025-06-27,3,Service was a little slow
+REV00594,R0071,2025-11-11,3,Service was a little slow
+REV00595,R0003,2025-06-10,3,Average experience
+REV00596,R0048,2026-08-14,4,Nice ambience and friendly staff
+REV00597,R0071,2025-01-28,4,Great food and good service
+REV00598,R0060,2025-02-25,3,Food was tasty and fresh
+REV00599,R0030,2026-07-31,4,Average experience
+REV00600,R0051,2026-06-18,3,Excellent taste and ambience
+REV00601,R0053,2025-06-30,4,Nice ambience and friendly staff
+REV00602,R0050,2026-04-09,5,Portions were good
+REV00603,R0018,2026-01-19,5,Service was a little slow
+REV00604,R0047,2025-02-08,4,"Loved the food, will visit again"
+REV00605,R0090,2025-08-31,5,Portions were good
+REV00606,R0095,2026-07-15,4,Average experience
+REV00607,R0002,2025-02-28,5,Great food and good service
+REV00608,R0099,2026-05-10,5,Food was tasty and fresh
+REV00609,R0084,2025-05-03,4,Average experience
+REV00610,R0082,2026-01-23,2,Service was a little slow
+REV00611,R0014,2025-12-03,2,Food was okay but could be better
+REV00612,R0032,2025-03-15,4,Great food and good service
+REV00613,R0069,2025-04-10,3,Nice ambience and friendly staff
+REV00614,R0009,2026-07-28,4,Portions were good
+REV00615,R0029,2025-05-23,5,"Loved the food, will visit again"
+REV00616,R0042,2025-06-06,5,Good value for money
+REV00617,R0082,2025-08-19,2,Food was tasty and fresh
+REV00618,R0062,2025-11-16,4,"Loved the food, will visit again"
+REV00619,R0045,2026-06-16,4,Food was okay but could be better
+REV00620,R0089,2025-11-09,4,"Loved the food, will visit again"
+REV00621,R0077,2025-04-02,5,Good value for money
+REV00622,R0037,2026-06-04,3,Nice ambience and friendly staff
+REV00623,R0005,2025-07-23,3,Food was tasty and fresh
+REV00624,R0090,2025-09-10,4,Portions were good
+REV00625,R0026,2026-08-03,3,Portions were good
+REV00626,R0051,2025-05-21,3,Service was a little slow
+REV00627,R0044,2025-02-16,5,Nice ambience and friendly staff
+REV00628,R0096,2026-08-04,4,Food was okay but could be better
+REV00629,R0044,2026-01-18,4,Portions were good
+REV00630,R0034,2025-10-13,4,Service was a little slow
+REV00631,R0070,2026-05-30,3,Food was okay but could be better
+REV00632,R0057,2025-05-06,4,Excellent taste and ambience
+REV00633,R0053,2026-04-29,4,Nice ambience and friendly staff
+REV00634,R0011,2025-12-20,2,Food was okay but could be better
+REV00635,R0018,2025-09-12,3,Excellent taste and ambience
+REV00636,R0098,2025-11-25,3,Food was tasty and fresh
+REV00637,R0020,2025-11-24,5,Food was tasty and fresh
+REV00638,R0087,2026-07-06,5,Food was okay but could be better
+REV00639,R0027,2026-02-17,5,Service was a little slow
+REV00640,R0060,2025-06-18,2,Great food and good service
+REV00641,R0083,2026-06-12,4,Service was a little slow
+REV00642,R0007,2026-06-22,3,Excellent taste and ambience
+REV00643,R0005,2025-10-09,3,Average experience
+REV00644,R0022,2025-09-26,5,Great food and good service
+REV00645,R0023,2025-04-27,4,Food was okay but could be better
+REV00646,R0016,2026-07-05,4,Great food and good service
+REV00647,R0026,2026-01-04,3,"Loved the food, will visit again"
+REV00648,R0046,2025-02-19,4,"Loved the food, will visit again"
+REV00649,R0088,2026-03-22,5,Food was okay but could be better
+REV00650,R0070,2025-05-30,5,"Loved the food, will visit again"
+REV00651,R0006,2025-10-05,5,Food was tasty and fresh
+REV00652,R0023,2026-03-31,4,Excellent taste and ambience
+REV00653,R0050,2026-01-29,4,Average experience
+REV00654,R0055,2025-09-08,5,Portions were good
+REV00655,R0079,2025-08-14,5,Food was tasty and fresh
+REV00656,R0058,2025-02-03,4,Food was tasty and fresh
+REV00657,R0003,2026-05-12,2,Food was tasty and fresh
+REV00658,R0067,2025-07-29,3,Service was a little slow
+REV00659,R0073,2025-05-01,4,Good value for money
+REV00660,R0069,2025-05-09,2,Nice ambience and friendly staff
+REV00661,R0012,2025-06-22,4,Excellent taste and ambience
+REV00662,R0099,2026-02-10,4,Good value for money
+REV00663,R0011,2026-05-11,3,"Loved the food, will visit again"
+REV00664,R0015,2025-12-17,5,Food was okay but could be better
+REV00665,R0043,2025-03-05,4,Food was tasty and fresh
+REV00666,R0002,2025-08-03,4,Nice ambience and friendly staff
+REV00667,R0038,2026-06-25,4,Food was tasty and fresh
+REV00668,R0078,2025-10-31,5,Great food and good service
+REV00669,R0053,2026-01-28,4,"Loved the food, will visit again"
+REV00670,R0087,2025-05-29,5,Portions were good
+REV00671,R0065,2025-07-17,5,Service was a little slow
+REV00672,R0044,2025-12-22,4,Great food and good service
+REV00673,R0040,2025-08-19,3,Nice ambience and friendly staff
+REV00674,R0046,2025-08-03,4,Average experience
+REV00675,R0009,2026-02-27,2,Average experience
+REV00676,R0092,2025-01-31,4,Service was a little slow
+REV00677,R0002,2025-02-27,4,Average experience
+REV00678,R0052,2025-12-07,3,Good value for money
+REV00679,R0061,2026-01-21,5,Portions were good
+REV00680,R0032,2025-01-26,4,"Loved the food, will visit again"
+REV00681,R0041,2025-01-13,4,Food was tasty and fresh
+REV00682,R0012,2026-07-14,3,Portions were good
+REV00683,R0057,2025-09-18,4,Nice ambience and friendly staff
+REV00684,R0022,2025-07-24,5,Portions were good
+REV00685,R0047,2026-04-13,4,Average experience
+REV00686,R0088,2025-04-14,3,"Loved the food, will visit again"
+REV00687,R0033,2026-05-23,4,Nice ambience and friendly staff
+REV00688,R0076,2026-07-05,3,Portions were good
+REV00689,R0046,2025-06-21,4,Portions were good
+REV00690,R0087,2026-01-19,5,Nice ambience and friendly staff
+REV00691,R0077,2025-11-21,4,"Loved the food, will visit again"
+REV00692,R0080,2025-06-18,5,Food was okay but could be better
+REV00693,R0024,2026-05-31,3,Food was okay but could be better
+REV00694,R0069,2025-03-01,4,Service was a little slow
+REV00695,R0016,2026-06-25,3,Service was a little slow
+REV00696,R0014,2025-03-20,4,Great food and good service
+REV00697,R0033,2026-02-02,4,Good value for money
+REV00698,R0030,2025-12-25,4,Excellent taste and ambience
+REV00699,R0077,2026-05-03,4,Nice ambience and friendly staff
+REV00700,R0073,2025-01-17,5,Food was tasty and fresh
+REV00701,R0091,2026-06-30,5,Good value for money
+REV00702,R0025,2025-07-21,5,Excellent taste and ambience
+REV00703,R0085,2026-03-21,4,Great food and good service
+REV00704,R0080,2025-01-07,4,Food was tasty and fresh
+REV00705,R0016,2025-01-21,2,Nice ambience and friendly staff
+REV00706,R0043,2025-08-16,5,Great food and good service
+REV00707,R0032,2026-02-08,4,Portions were good
+REV00708,R0066,2026-08-27,3,Average experience
+REV00709,R0061,2025-04-13,5,Great food and good service
+REV00710,R0055,2025-04-11,3,"Loved the food, will visit again"
+REV00711,R0045,2025-07-01,3,Service was a little slow
+REV00712,R0046,2026-06-27,5,Excellent taste and ambience
+REV00713,R0059,2026-03-18,4,Excellent taste and ambience
+REV00714,R0063,2026-05-17,2,Portions were good
+REV00715,R0059,2025-02-06,4,Food was okay but could be better
+REV00716,R0009,2026-05-23,5,Food was tasty and fresh
+REV00717,R0064,2025-08-23,4,Great food and good service
+REV00718,R0100,2026-08-22,4,Food was tasty and fresh
+REV00719,R0012,2026-04-08,5,Nice ambience and friendly staff
+REV00720,R0026,2025-12-30,5,Nice ambience and friendly staff
+REV00721,R0084,2025-06-15,4,Service was a little slow
+REV00722,R0059,2026-08-25,3,Food was tasty and fresh
+REV00723,R0075,2026-02-17,4,Average experience
+REV00724,R0018,2026-03-15,4,Nice ambience and friendly staff
+REV00725,R0014,2026-04-28,5,Food was tasty and fresh
+REV00726,R0053,2025-03-19,5,Excellent taste and ambience
+REV00727,R0028,2025-06-20,3,Food was tasty and fresh
+REV00728,R0048,2025-03-27,5,Average experience
+REV00729,R0060,2026-06-05,5,Portions were good
+REV00730,R0035,2025-04-11,4,Average experience
+REV00731,R0058,2026-05-27,4,Great food and good service
+REV00732,R0043,2025-04-05,3,Nice ambience and friendly staff
+REV00733,R0006,2025-01-12,5,Nice ambience and friendly staff
+REV00734,R0002,2026-02-03,5,Service was a little slow
+REV00735,R0029,2025-06-05,4,Great food and good service
+REV00736,R0032,2025-11-22,4,Food was tasty and fresh
+REV00737,R0088,2025-10-17,4,Excellent taste and ambience
+REV00738,R0047,2025-08-02,5,"Loved the food, will visit again"
+REV00739,R0024,2025-11-09,3,Excellent taste and ambience
+REV00740,R0071,2026-04-15,4,Food was okay but could be better
+REV00741,R0035,2025-10-07,2,Excellent taste and ambience
+REV00742,R0053,2026-04-01,5,Good value for money
+REV00743,R0091,2025-03-04,5,Food was okay but could be better
+REV00744,R0057,2025-10-20,3,Nice ambience and friendly staff
+REV00745,R0007,2025-07-09,2,Service was a little slow
+REV00746,R0092,2026-05-26,4,Average experience
+REV00747,R0004,2026-02-13,4,Service was a little slow
+REV00748,R0028,2025-07-16,3,Food was tasty and fresh
+REV00749,R0095,2026-08-18,4,Excellent taste and ambience
+REV00750,R0067,2026-04-16,2,Service was a little slow
+REV00751,R0023,2025-10-31,5,Food was tasty and fresh
+REV00752,R0082,2025-02-10,3,Food was okay but could be better
+REV00753,R0025,2026-02-07,4,Service was a little slow
+REV00754,R0079,2025-12-02,5,Excellent taste and ambience
+REV00755,R0074,2025-10-11,4,Average experience
+REV00756,R0078,2026-01-29,3,Food was tasty and fresh
+REV00757,R0030,2026-04-11,3,Nice ambience and friendly staff
+REV00758,R0076,2025-08-09,4,Nice ambience and friendly staff
+REV00759,R0073,2025-08-24,3,Service was a little slow
+REV00760,R0072,2026-03-20,5,Great food and good service
+REV00761,R0006,2026-04-25,5,Great food and good service
+REV00762,R0033,2026-05-25,3,Excellent taste and ambience
+REV00763,R0032,2026-07-23,4,Food was okay but could be better
+REV00764,R0098,2025-05-17,5,Excellent taste and ambience
+REV00765,R0087,2026-03-13,5,"Loved the food, will visit again"
+REV00766,R0084,2025-10-08,4,Food was tasty and fresh
+REV00767,R0062,2025-10-29,4,"Loved the food, will visit again"
+REV00768,R0011,2025-01-08,3,Service was a little slow
+REV00769,R0035,2026-02-25,4,Excellent taste and ambience
+REV00770,R0034,2025-03-20,5,Great food and good service
+REV00771,R0033,2025-01-09,5,Great food and good service
+REV00772,R0060,2025-04-23,4,Average experience
+REV00773,R0058,2025-04-25,4,Portions were good
+REV00774,R0013,2025-03-06,3,Good value for money
+REV00775,R0057,2026-01-04,3,Portions were good
+REV00776,R0067,2025-01-12,1,Food was okay but could be better
+REV00777,R0025,2025-02-22,3,Food was okay but could be better
+REV00778,R0078,2025-12-26,4,Great food and good service
+REV00779,R0056,2025-06-29,4,"Loved the food, will visit again"
+REV00780,R0087,2025-03-21,5,Service was a little slow
+REV00781,R0022,2026-07-24,5,Service was a little slow
+REV00782,R0012,2025-01-07,3,Service was a little slow
+REV00783,R0062,2025-08-21,4,Nice ambience and friendly staff
+REV00784,R0077,2026-03-15,5,Service was a little slow
+REV00785,R0036,2025-10-11,5,Excellent taste and ambience
+REV00786,R0079,2026-06-29,5,Good value for money
+REV00787,R0042,2025-09-27,3,Portions were good
+REV00788,R0077,2025-03-26,5,Average experience
+REV00789,R0054,2026-01-06,5,Food was tasty and fresh
+REV00790,R0047,2026-02-26,5,Food was tasty and fresh
+REV00791,R0062,2026-08-21,3,Excellent taste and ambience
+REV00792,R0081,2025-02-21,5,Great food and good service
+REV00793,R0081,2026-02-11,2,Food was okay but could be better
+REV00794,R0064,2025-09-11,5,Nice ambience and friendly staff
+REV00795,R0020,2026-01-11,4,Excellent taste and ambience
+REV00796,R0008,2025-06-15,4,"Loved the food, will visit again"
+REV00797,R0053,2026-03-20,5,Service was a little slow
+REV00798,R0017,2025-03-20,3,Portions were good
+REV00799,R0039,2025-04-13,2,Nice ambience and friendly staff
+REV00800,R0079,2025-08-12,4,"Loved the food, will visit again"
+REV00801,R0043,2025-07-01,5,Portions were good
+REV00802,R0062,2025-07-29,3,Excellent taste and ambience
+REV00803,R0089,2025-03-27,5,Food was okay but could be better
+REV00804,R0056,2026-05-16,3,"Loved the food, will visit again"
+REV00805,R0020,2025-08-09,3,"Loved the food, will visit again"
+REV00806,R0046,2025-07-11,4,Excellent taste and ambience
+REV00807,R0020,2025-06-11,4,"Loved the food, will visit again"
+REV00808,R0033,2025-02-23,3,Nice ambience and friendly staff
+REV00809,R0071,2025-04-28,5,Portions were good
+REV00810,R0061,2025-07-31,5,Nice ambience and friendly staff
+REV00811,R0044,2026-01-29,5,Food was tasty and fresh
+REV00812,R0084,2026-05-27,5,Nice ambience and friendly staff
+REV00813,R0045,2025-11-11,3,Great food and good service
+REV00814,R0100,2025-09-24,4,"Loved the food, will visit again"
+REV00815,R0070,2025-07-23,5,Average experience
+REV00816,R0040,2025-11-19,4,Nice ambience and friendly staff
+REV00817,R0053,2025-10-22,5,Great food and good service
+REV00818,R0012,2025-05-18,3,Service was a little slow
+REV00819,R0055,2026-06-21,4,Service was a little slow
+REV00820,R0081,2026-08-28,3,Service was a little slow
+REV00821,R0097,2026-03-28,3,Good value for money
+REV00822,R0092,2026-03-17,3,Service was a little slow
+REV00823,R0083,2025-03-21,4,Great food and good service
+REV00824,R0012,2025-10-17,4,Service was a little slow
+REV00825,R0075,2026-06-27,3,Nice ambience and friendly staff
+REV00826,R0015,2025-11-09,4,Nice ambience and friendly staff
+REV00827,R0068,2025-01-16,4,Service was a little slow
+REV00828,R0077,2026-08-16,4,Average experience
+REV00829,R0044,2025-03-18,4,Average experience
+REV00830,R0066,2025-10-24,4,Excellent taste and ambience
+REV00831,R0070,2025-12-25,5,Nice ambience and friendly staff
+REV00832,R0019,2025-11-20,3,Food was okay but could be better
+REV00833,R0070,2025-06-02,5,Great food and good service
+REV00834,R0065,2026-06-14,3,Food was okay but could be better
+REV00835,R0092,2025-12-06,3,Great food and good service
+REV00836,R0052,2026-04-11,5,Portions were good
+REV00837,R0078,2026-08-28,5,Good value for money
+REV00838,R0026,2026-08-21,3,Portions were good
+REV00839,R0002,2025-01-06,3,Good value for money
+REV00840,R0021,2025-04-28,5,Average experience
+REV00841,R0089,2025-06-10,4,Excellent taste and ambience
+REV00842,R0100,2025-05-29,5,Excellent taste and ambience
+REV00843,R0084,2026-01-22,5,Portions were good
+REV00844,R0019,2025-12-19,4,Nice ambience and friendly staff
+REV00845,R0079,2026-07-12,5,Great food and good service
+REV00846,R0091,2025-05-21,5,Great food and good service
+REV00847,R0005,2026-01-19,4,Excellent taste and ambience
+REV00848,R0067,2025-11-15,2,Great food and good service
+REV00849,R0094,2025-01-12,5,Great food and good service
+REV00850,R0040,2025-06-26,4,Average experience
+REV00851,R0057,2025-11-26,2,"Loved the food, will visit again"
+REV00852,R0100,2025-08-04,5,Service was a little slow
+REV00853,R0023,2025-05-14,4,Great food and good service
+REV00854,R0006,2026-03-10,4,"Loved the food, will visit again"
+REV00855,R0088,2025-02-20,2,Excellent taste and ambience
+REV00856,R0048,2025-09-10,5,"Loved the food, will visit again"
+REV00857,R0099,2026-07-02,5,Food was okay but could be better
+REV00858,R0076,2025-09-25,4,Food was okay but could be better
+REV00859,R0039,2025-05-21,4,Nice ambience and friendly staff
+REV00860,R0041,2025-11-10,3,Excellent taste and ambience
+REV00861,R0024,2025-09-10,5,Portions were good
+REV00862,R0010,2026-01-21,3,"Loved the food, will visit again"
+REV00863,R0015,2025-11-19,4,Excellent taste and ambience
+REV00864,R0063,2025-07-22,5,Good value for money
+REV00865,R0092,2026-07-16,4,Nice ambience and friendly staff
+REV00866,R0071,2026-08-17,5,Good value for money
+REV00867,R0088,2025-02-12,5,Food was okay but could be better
+REV00868,R0071,2026-08-29,3,Food was okay but could be better
+REV00869,R0005,2026-04-12,4,Nice ambience and friendly staff
+REV00870,R0085,2025-05-28,3,Service was a little slow
+REV00871,R0021,2026-02-08,4,Nice ambience and friendly staff
+REV00872,R0001,2025-10-13,4,Great food and good service
+REV00873,R0024,2025-01-24,2,Service was a little slow
+REV00874,R0077,2025-07-27,5,Excellent taste and ambience
+REV00875,R0077,2025-12-02,5,"Loved the food, will visit again"
+REV00876,R0065,2026-05-12,3,Food was tasty and fresh
+REV00877,R0035,2026-07-20,5,Service was a little slow
+REV00878,R0042,2025-10-12,3,Food was tasty and fresh
+REV00879,R0010,2026-03-07,3,Food was okay but could be better
+REV00880,R0094,2026-02-20,5,Food was okay but could be better
+REV00881,R0032,2025-09-10,4,Food was okay but could be better
+REV00882,R0002,2026-01-11,5,Service was a little slow
+REV00883,R0071,2025-04-20,3,Great food and good service
+REV00884,R0001,2026-08-08,3,Good value for money
+REV00885,R0053,2026-07-11,4,Good value for money
+REV00886,R0009,2025-04-15,3,"Loved the food, will visit again"
+REV00887,R0018,2025-02-17,4,Service was a little slow
+REV00888,R0080,2026-03-29,5,Great food and good service
+REV00889,R0037,2025-05-05,4,Great food and good service
+REV00890,R0064,2025-08-02,5,Excellent taste and ambience
+REV00891,R0061,2025-08-27,5,Good value for money
+REV00892,R0060,2025-03-23,4,Portions were good
+REV00893,R0074,2026-08-12,3,Portions were good
+REV00894,R0077,2026-02-06,5,Excellent taste and ambience
+REV00895,R0066,2025-07-20,4,Food was tasty and fresh
+REV00896,R0010,2025-02-11,3,Average experience
+REV00897,R0009,2025-11-16,3,Portions were good
+REV00898,R0087,2025-03-12,4,Excellent taste and ambience
+REV00899,R0023,2025-08-13,4,Food was tasty and fresh
+REV00900,R0060,2026-08-05,4,Average experience
+REV00901,R0031,2026-03-18,4,Good value for money
+REV00902,R0036,2026-06-04,4,Food was okay but could be better
+REV00903,R0036,2025-04-14,3,"Loved the food, will visit again"
+REV00904,R0042,2025-04-11,4,Nice ambience and friendly staff
+REV00905,R0010,2025-10-04,4,Great food and good service
+REV00906,R0015,2025-07-07,4,Good value for money
+REV00907,R0010,2025-11-13,4,Food was okay but could be better
+REV00908,R0054,2025-03-06,5,Great food and good service
+REV00909,R0005,2026-06-19,2,Great food and good service
+REV00910,R0098,2025-04-09,3,Great food and good service
+REV00911,R0073,2025-11-11,2,Nice ambience and friendly staff
+REV00912,R0069,2026-06-26,3,Great food and good service
+REV00913,R0075,2025-10-20,4,Great food and good service
+REV00914,R0004,2025-12-22,5,"Loved the food, will visit again"
+REV00915,R0025,2026-04-05,5,Food was okay but could be better
+REV00916,R0034,2025-02-12,4,Food was okay but could be better
+REV00917,R0094,2025-12-16,3,Nice ambience and friendly staff
+REV00918,R0032,2025-04-16,5,Great food and good service
+REV00919,R0072,2026-07-12,5,Average experience
+REV00920,R0019,2025-06-15,4,Average experience
+REV00921,R0043,2025-03-09,5,"Loved the food, will visit again"
+REV00922,R0078,2026-08-25,3,Service was a little slow
+REV00923,R0017,2026-04-22,4,Portions were good
+REV00924,R0075,2025-05-08,5,Service was a little slow
+REV00925,R0026,2025-06-08,4,Food was okay but could be better
+REV00926,R0042,2025-01-23,4,Portions were good
+REV00927,R0066,2026-08-12,3,Food was tasty and fresh
+REV00928,R0041,2025-03-26,3,"Loved the food, will visit again"
+REV00929,R0098,2025-08-18,4,"Loved the food, will visit again"
+REV00930,R0040,2026-01-13,5,Average experience
+REV00931,R0065,2026-01-17,4,Food was okay but could be better
+REV00932,R0047,2025-09-27,3,"Loved the food, will visit again"
+REV00933,R0012,2026-03-26,3,Portions were good
+REV00934,R0067,2025-10-12,2,Nice ambience and friendly staff
+REV00935,R0020,2025-11-06,4,Food was okay but could be better
+REV00936,R0042,2025-07-05,2,Nice ambience and friendly staff
+REV00937,R0030,2025-05-16,5,Food was tasty and fresh
+REV00938,R0067,2025-08-24,2,"Loved the food, will visit again"
+REV00939,R0081,2026-06-05,5,Average experience
+REV00940,R0076,2025-05-19,3,Good value for money
+REV00941,R0035,2025-01-04,3,Excellent taste and ambience
+REV00942,R0047,2025-04-04,5,Average experience
+REV00943,R0052,2025-07-24,5,Portions were good
+REV00944,R0004,2025-03-17,5,Portions were good
+REV00945,R0077,2025-04-16,5,Service was a little slow
+REV00946,R0092,2025-10-02,4,Excellent taste and ambience
+REV00947,R0083,2026-06-24,4,Average experience
+REV00948,R0066,2026-01-17,4,"Loved the food, will visit again"
+REV00949,R0077,2026-01-03,5,Good value for money
+REV00950,R0015,2025-12-18,5,Great food and good service
+REV00951,R0017,2025-02-12,3,Excellent taste and ambience
+REV00952,R0003,2025-09-25,4,Good value for money
+REV00953,R0016,2025-06-26,3,Great food and good service
+REV00954,R0051,2025-09-03,5,Great food and good service
+REV00955,R0030,2025-09-12,4,Service was a little slow
+REV00956,R0078,2026-08-29,5,Great food and good service
+REV00957,R0045,2026-07-12,3,"Loved the food, will visit again"
+REV00958,R0046,2025-09-06,5,"Loved the food, will visit again"
+REV00959,R0044,2026-07-18,5,"Loved the food, will visit again"
+REV00960,R0088,2025-11-09,3,Food was tasty and fresh
+REV00961,R0066,2026-07-12,5,Portions were good
+REV00962,R0098,2025-12-09,4,Average experience
+REV00963,R0055,2025-11-13,5,Great food and good service
+REV00964,R0022,2025-05-11,5,"Loved the food, will visit again"
+REV00965,R0054,2025-12-27,4,Nice ambience and friendly staff
+REV00966,R0067,2025-01-10,3,Great food and good service
+REV00967,R0065,2025-02-26,5,Excellent taste and ambience
+REV00968,R0093,2025-09-28,5,Food was tasty and fresh
+REV00969,R0076,2025-11-25,3,Food was okay but could be better
+REV00970,R0041,2025-06-16,4,Food was okay but could be better
+REV00971,R0002,2026-02-06,5,Food was tasty and fresh
+REV00972,R0009,2025-10-27,3,Good value for money
+REV00973,R0033,2025-12-31,3,Nice ambience and friendly staff
+REV00974,R0094,2026-05-07,5,Average experience
+REV00975,R0063,2025-01-11,4,Portions were good
+REV00976,R0050,2026-05-26,5,Portions were good
+REV00977,R0099,2026-01-24,4,Portions were good
+REV00978,R0099,2025-05-27,3,Service was a little slow
+REV00979,R0009,2025-10-16,3,Nice ambience and friendly staff
+REV00980,R0014,2025-09-14,4,Food was okay but could be better
+REV00981,R0058,2025-06-21,4,Excellent taste and ambience
+REV00982,R0055,2026-02-03,4,Food was tasty and fresh
+REV00983,R0072,2025-12-21,3,Service was a little slow
+REV00984,R0072,2026-06-19,4,Good value for money
+REV00985,R0014,2025-11-17,4,Good value for money
+REV00986,R0063,2025-12-12,3,Great food and good service
+REV00987,R0087,2025-07-13,4,Food was tasty and fresh
+REV00988,R0024,2026-08-23,2,"Loved the food, will visit again"
+REV00989,R0015,2026-07-31,5,Great food and good service
+REV00990,R0095,2026-03-04,4,Food was okay but could be better
+REV00991,R0063,2026-03-07,4,"Loved the food, will visit again"
+REV00992,R0070,2025-04-14,4,Average experience
+REV00993,R0078,2025-10-03,5,Service was a little slow
+REV00994,R0058,2025-04-15,4,Food was okay but could be better
+REV00995,R0010,2025-06-07,4,Average experience
+REV00996,R0067,2025-10-26,3,Average experience
+REV00997,R0052,2026-01-28,3,Service was a little slow
+REV00998,R0092,2026-03-23,4,Excellent taste and ambience
+REV00999,R0044,2025-08-06,4,Great food and good service
+REV01000,R0016,2025-10-05,5,Great food and good service

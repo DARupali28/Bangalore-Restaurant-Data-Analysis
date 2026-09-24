@@ -1,0 +1,627 @@
+menu_id,restaurant_id,item_name,category,price,vegetarian
+M00001,R0001,Margherita Pizza,Beverage,306,Yes
+M00002,R0001,Lasagna,Dessert,515,Yes
+M00003,R0001,Garlic Bread,Main Course,100,No
+M00004,R0001,Pulihora,Starter,199,Yes
+M00005,R0001,Gongura Chicken,Starter,208,No
+M00006,R0001,Quesadilla,Main Course,311,Yes
+M00007,R0001,Nachos,Beverage,279,Yes
+M00008,R0002,Quesadilla,Dessert,546,Yes
+M00009,R0002,Burrito,Beverage,528,Yes
+M00010,R0002,Pasta,Starter,166,Yes
+M00011,R0002,Veg Steak,Starter,514,Yes
+M00012,R0003,Idli,Beverage,356,Yes
+M00013,R0003,Vada,Main Course,445,No
+M00014,R0003,Masala Dosa,Snack,515,Yes
+M00015,R0003,Bisibele Bath,Snack,470,Yes
+M00016,R0003,Tom Yum,Dessert,429,No
+M00017,R0003,Pad Thai,Main Course,629,Yes
+M00018,R0003,Thai Green Curry,Beverage,416,Yes
+M00019,R0003,Spring Rolls,Starter,408,No
+M00020,R0003,Chole Bhature,Beverage,461,No
+M00021,R0003,Paneer Butter Masala,Starter,248,Yes
+M00022,R0003,Butter Naan,Starter,457,Yes
+M00023,R0003,Dal Makhani,Main Course,228,No
+M00024,R0004,Tacos,Dessert,239,Yes
+M00025,R0004,Nachos,Beverage,305,Yes
+M00026,R0004,Burrito,Snack,601,Yes
+M00027,R0004,Quesadilla,Starter,481,Yes
+M00028,R0005,Bisibele Bath,Beverage,493,No
+M00029,R0005,Idli,Dessert,251,Yes
+M00030,R0005,Ice Cream,Dessert,201,Yes
+M00031,R0005,Waffle,Starter,312,Yes
+M00032,R0005,Brownie,Main Course,228,Yes
+M00033,R0005,Gulab Jamun,Dessert,381,No
+M00034,R0005,Margherita Pizza,Snack,335,No
+M00035,R0005,Pasta Alfredo,Snack,424,No
+M00036,R0005,Garlic Bread,Beverage,545,No
+M00037,R0006,Chicken Fry,Snack,641,Yes
+M00038,R0006,Gongura Chicken,Snack,486,No
+M00039,R0006,Kosha Mangsho,Dessert,432,No
+M00040,R0006,Fish Curry,Snack,98,Yes
+M00041,R0007,Grilled Sandwich,Starter,207,Yes
+M00042,R0007,Chicken Steak,Main Course,265,No
+M00043,R0007,Gongura Chicken,Starter,183,Yes
+M00044,R0007,Pulihora,Main Course,570,Yes
+M00045,R0007,Nachos,Snack,145,Yes
+M00046,R0007,Quesadilla,Starter,191,Yes
+M00047,R0007,Burrito,Starter,579,No
+M00048,R0008,Chicken Biryani,Beverage,288,No
+M00049,R0008,Veg Biryani,Starter,497,Yes
+M00050,R0008,Egg Biryani,Dessert,456,No
+M00051,R0008,Kerala Parotta,Snack,180,No
+M00052,R0008,Appam,Beverage,460,No
+M00053,R0008,Fish Curry,Beverage,615,No
+M00054,R0008,Stew,Snack,233,Yes
+M00055,R0009,Kosha Mangsho,Dessert,281,No
+M00056,R0009,Luchi,Beverage,267,Yes
+M00057,R0009,Mishti Doi,Dessert,99,Yes
+M00058,R0009,Waffle,Snack,415,Yes
+M00059,R0009,Gulab Jamun,Main Course,134,No
+M00060,R0009,Brownie,Beverage,615,Yes
+M00061,R0009,Ice Cream,Main Course,238,Yes
+M00062,R0009,Stew,Snack,485,No
+M00063,R0009,Kerala Parotta,Dessert,155,No
+M00064,R0009,Fish Curry,Main Course,196,Yes
+M00065,R0009,Appam,Beverage,98,No
+M00066,R0010,Lasagna,Starter,262,Yes
+M00067,R0010,Margherita Pizza,Main Course,192,Yes
+M00068,R0011,Chicken Burger,Beverage,197,Yes
+M00069,R0011,Veg Burger,Starter,480,Yes
+M00070,R0011,Wrap,Beverage,126,Yes
+M00071,R0011,French Fries,Beverage,154,Yes
+M00072,R0011,Cheesecake,Beverage,217,No
+M00073,R0011,Club Sandwich,Snack,333,No
+M00074,R0012,Butter Chicken,Dessert,642,Yes
+M00075,R0012,Seekh Kebab,Snack,505,Yes
+M00076,R0012,Wrap,Dessert,128,Yes
+M00077,R0012,Veg Burger,Main Course,340,Yes
+M00078,R0012,French Fries,Beverage,339,No
+M00079,R0013,Chicken Fry,Starter,392,No
+M00080,R0013,Andhra Meals,Starter,261,No
+M00081,R0013,Gongura Chicken,Beverage,443,No
+M00082,R0013,Pulihora,Starter,622,No
+M00083,R0014,Luchi,Beverage,493,No
+M00084,R0014,Mishti Doi,Beverage,242,Yes
+M00085,R0015,Pad Thai,Main Course,284,No
+M00086,R0015,Spring Rolls,Beverage,307,No
+M00087,R0015,Thai Green Curry,Snack,329,Yes
+M00088,R0016,Fried Rice,Snack,598,No
+M00089,R0016,Spring Rolls,Main Course,282,No
+M00090,R0017,Mutton Biryani,Main Course,571,No
+M00091,R0017,Chicken Biryani,Starter,244,No
+M00092,R0017,Veg Biryani,Dessert,161,Yes
+M00093,R0017,Egg Biryani,Dessert,210,Yes
+M00094,R0018,Gulab Jamun,Snack,463,No
+M00095,R0018,Ice Cream,Starter,524,Yes
+M00096,R0018,Waffle,Starter,240,Yes
+M00097,R0018,Cheesecake,Starter,406,No
+M00098,R0018,Cold Coffee,Starter,433,No
+M00099,R0018,Club Sandwich,Main Course,122,Yes
+M00100,R0019,Tom Yum,Main Course,573,No
+M00101,R0019,Spring Rolls,Main Course,596,No
+M00102,R0019,Pad Thai,Starter,145,No
+M00103,R0019,Thai Green Curry,Main Course,223,No
+M00104,R0019,Spring Rolls,Beverage,423,Yes
+M00105,R0019,Manchurian,Beverage,322,Yes
+M00106,R0019,Fried Rice,Starter,111,Yes
+M00107,R0019,Hakka Noodles,Dessert,611,No
+M00108,R0020,Paneer Butter Masala,Dessert,158,Yes
+M00109,R0020,Butter Naan,Beverage,460,Yes
+M00110,R0020,Dal Makhani,Main Course,105,Yes
+M00111,R0020,Chole Bhature,Main Course,333,Yes
+M00112,R0020,Fish Curry,Beverage,458,No
+M00113,R0020,Kosha Mangsho,Snack,386,Yes
+M00114,R0020,Veg Biryani,Dessert,151,Yes
+M00115,R0020,Mutton Biryani,Starter,638,Yes
+M00116,R0020,Chicken Biryani,Main Course,633,No
+M00117,R0021,Vada,Snack,338,Yes
+M00118,R0021,Masala Dosa,Main Course,119,No
+M00119,R0021,Idli,Starter,299,Yes
+M00120,R0021,Wrap,Beverage,339,No
+M00121,R0021,Chicken Burger,Snack,623,Yes
+M00122,R0021,Fish Curry,Starter,188,Yes
+M00123,R0021,Kosha Mangsho,Dessert,612,No
+M00124,R0021,Luchi,Dessert,241,No
+M00125,R0021,Mishti Doi,Beverage,181,No
+M00126,R0022,Appam,Snack,616,Yes
+M00127,R0022,Kerala Parotta,Starter,275,Yes
+M00128,R0022,Stew,Beverage,461,No
+M00129,R0022,Fish Curry,Dessert,306,Yes
+M00130,R0023,Wrap,Snack,456,Yes
+M00131,R0023,French Fries,Main Course,443,No
+M00132,R0023,Garlic Bread,Snack,555,No
+M00133,R0023,Lasagna,Main Course,356,No
+M00134,R0023,Quesadilla,Snack,625,Yes
+M00135,R0023,Nachos,Snack,417,Yes
+M00136,R0023,Tacos,Main Course,154,Yes
+M00137,R0024,Chicken Steak,Dessert,368,No
+M00138,R0024,Grilled Sandwich,Dessert,351,No
+M00139,R0024,Mishti Doi,Starter,203,Yes
+M00140,R0024,Fish Curry,Snack,595,No
+M00141,R0024,Kosha Mangsho,Starter,222,Yes
+M00142,R0025,Gongura Chicken,Dessert,381,No
+M00143,R0025,Chicken Fry,Beverage,539,Yes
+M00144,R0025,Cheesecake,Dessert,286,No
+M00145,R0025,Cold Coffee,Snack,330,Yes
+M00146,R0025,Club Sandwich,Snack,433,No
+M00147,R0025,Cappuccino,Beverage,580,No
+M00148,R0025,Brownie,Snack,360,Yes
+M00149,R0025,Gulab Jamun,Main Course,162,No
+M00150,R0025,Waffle,Snack,505,Yes
+M00151,R0026,Kerala Parotta,Starter,454,Yes
+M00152,R0026,Fish Curry,Beverage,477,No
+M00153,R0026,Stew,Dessert,544,No
+M00154,R0026,Appam,Starter,399,Yes
+M00155,R0027,Quesadilla,Snack,413,No
+M00156,R0027,Tacos,Starter,147,Yes
+M00157,R0027,Luchi,Starter,206,Yes
+M00158,R0027,Mishti Doi,Dessert,141,Yes
+M00159,R0027,Kosha Mangsho,Beverage,114,Yes
+M00160,R0028,Butter Chicken,Dessert,404,No
+M00161,R0028,Seekh Kebab,Beverage,280,Yes
+M00162,R0028,Chicken Korma,Starter,403,Yes
+M00163,R0028,Pulihora,Dessert,422,Yes
+M00164,R0028,Chicken Fry,Beverage,517,No
+M00165,R0028,Gulab Jamun,Snack,105,No
+M00166,R0028,Brownie,Dessert,485,Yes
+M00167,R0028,Waffle,Dessert,629,Yes
+M00168,R0029,Quesadilla,Beverage,619,No
+M00169,R0029,Burrito,Beverage,571,No
+M00170,R0029,Mughlai Paratha,Starter,166,No
+M00171,R0029,Chicken Korma,Starter,341,No
+M00172,R0029,Butter Chicken,Snack,546,No
+M00173,R0030,Mutton Biryani,Dessert,503,No
+M00174,R0030,Veg Biryani,Snack,511,Yes
+M00175,R0030,Egg Biryani,Dessert,128,No
+M00176,R0030,Paneer Butter Masala,Beverage,420,Yes
+M00177,R0030,Chole Bhature,Dessert,397,No
+M00178,R0030,Fish Curry,Starter,423,Yes
+M00179,R0030,Appam,Starter,632,Yes
+M00180,R0030,Stew,Dessert,262,Yes
+M00181,R0030,Kerala Parotta,Dessert,573,Yes
+M00182,R0031,Egg Biryani,Dessert,80,No
+M00183,R0031,Mutton Biryani,Beverage,98,No
+M00184,R0031,Veg Biryani,Dessert,188,Yes
+M00185,R0031,Chicken Biryani,Beverage,524,No
+M00186,R0031,Lasagna,Beverage,329,Yes
+M00187,R0031,Garlic Bread,Starter,253,Yes
+M00188,R0031,Mughlai Paratha,Starter,403,No
+M00189,R0031,Butter Chicken,Starter,499,No
+M00190,R0031,Seekh Kebab,Dessert,491,No
+M00191,R0032,Pasta,Starter,184,No
+M00192,R0032,Chicken Steak,Main Course,345,No
+M00193,R0032,Butter Chicken,Starter,630,No
+M00194,R0032,Chicken Korma,Snack,163,No
+M00195,R0032,Mughlai Paratha,Snack,593,Yes
+M00196,R0032,Pad Thai,Main Course,160,Yes
+M00197,R0032,Tom Yum,Beverage,498,Yes
+M00198,R0032,Thai Green Curry,Starter,390,Yes
+M00199,R0033,Tom Yum,Starter,206,Yes
+M00200,R0033,Spring Rolls,Starter,358,No
+M00201,R0033,Pad Thai,Starter,373,No
+M00202,R0033,Thai Green Curry,Dessert,517,Yes
+M00203,R0033,Gulab Jamun,Starter,109,No
+M00204,R0033,Brownie,Beverage,530,Yes
+M00205,R0033,Ice Cream,Snack,235,Yes
+M00206,R0033,Mishti Doi,Snack,639,No
+M00207,R0033,Kosha Mangsho,Main Course,197,No
+M00208,R0033,Luchi,Beverage,369,No
+M00209,R0033,Fish Curry,Beverage,86,No
+M00210,R0034,Dal Makhani,Beverage,281,No
+M00211,R0034,Butter Naan,Main Course,498,Yes
+M00212,R0034,Tacos,Snack,404,Yes
+M00213,R0034,Burrito,Main Course,519,No
+M00214,R0034,Quesadilla,Starter,110,No
+M00215,R0034,Nachos,Starter,513,Yes
+M00216,R0034,Egg Biryani,Snack,636,No
+M00217,R0034,Chicken Biryani,Main Course,234,No
+M00218,R0035,Margherita Pizza,Snack,341,Yes
+M00219,R0035,Pasta Alfredo,Dessert,324,No
+M00220,R0035,Garlic Bread,Main Course,564,No
+M00221,R0035,Cheesecake,Dessert,114,Yes
+M00222,R0035,Club Sandwich,Beverage,280,Yes
+M00223,R0035,Chicken Burger,Beverage,188,No
+M00224,R0035,Wrap,Beverage,148,Yes
+M00225,R0036,Vada,Dessert,458,Yes
+M00226,R0036,Idli,Snack,633,Yes
+M00227,R0036,Mughlai Paratha,Main Course,576,Yes
+M00228,R0036,Seekh Kebab,Beverage,612,No
+M00229,R0036,Chicken Korma,Snack,438,No
+M00230,R0037,Stew,Dessert,562,Yes
+M00231,R0037,Kerala Parotta,Main Course,218,No
+M00232,R0037,Fish Curry,Snack,588,Yes
+M00233,R0037,Appam,Snack,183,No
+M00234,R0037,Pulihora,Dessert,599,No
+M00235,R0037,Andhra Meals,Dessert,243,No
+M00236,R0037,Thai Green Curry,Main Course,346,No
+M00237,R0037,Pad Thai,Dessert,638,No
+M00238,R0037,Tom Yum,Dessert,474,Yes
+M00239,R0037,Spring Rolls,Beverage,596,Yes
+M00240,R0038,Paneer Butter Masala,Starter,226,Yes
+M00241,R0038,Butter Naan,Main Course,383,No
+M00242,R0038,Veg Burger,Beverage,181,Yes
+M00243,R0038,Chicken Burger,Snack,496,No
+M00244,R0038,Wrap,Snack,578,No
+M00245,R0038,Spring Rolls,Snack,161,No
+M00246,R0038,Manchurian,Snack,444,Yes
+M00247,R0039,Mishti Doi,Starter,226,Yes
+M00248,R0039,Luchi,Snack,522,Yes
+M00249,R0039,Kosha Mangsho,Dessert,573,Yes
+M00250,R0039,Fish Curry,Main Course,559,No
+M00251,R0040,Quesadilla,Main Course,399,No
+M00252,R0040,Tacos,Dessert,283,Yes
+M00253,R0041,Chicken Fry,Starter,382,Yes
+M00254,R0041,Gongura Chicken,Snack,449,No
+M00255,R0041,Pulihora,Main Course,192,No
+M00256,R0041,Stew,Starter,371,Yes
+M00257,R0041,Appam,Dessert,80,Yes
+M00258,R0041,Fish Curry,Dessert,220,No
+M00259,R0041,Kerala Parotta,Dessert,267,No
+M00260,R0042,Wrap,Snack,273,Yes
+M00261,R0042,Chicken Burger,Starter,463,No
+M00262,R0043,Tom Yum,Snack,267,Yes
+M00263,R0043,Pad Thai,Dessert,369,Yes
+M00264,R0043,Thai Green Curry,Dessert,162,Yes
+M00265,R0044,Brownie,Starter,454,Yes
+M00266,R0044,Ice Cream,Main Course,459,Yes
+M00267,R0044,Gulab Jamun,Beverage,401,No
+M00268,R0044,Idli,Beverage,369,Yes
+M00269,R0044,Bisibele Bath,Snack,294,No
+M00270,R0044,Vada,Snack,310,Yes
+M00271,R0045,Veg Steak,Dessert,612,Yes
+M00272,R0045,Pasta,Snack,132,Yes
+M00273,R0045,Chicken Steak,Starter,360,No
+M00274,R0045,Grilled Sandwich,Starter,262,Yes
+M00275,R0045,Andhra Meals,Beverage,239,No
+M00276,R0045,Pulihora,Main Course,491,No
+M00277,R0045,Chicken Fry,Beverage,132,No
+M00278,R0046,Luchi,Beverage,284,Yes
+M00279,R0046,Fish Curry,Main Course,91,Yes
+M00280,R0046,Kosha Mangsho,Main Course,433,Yes
+M00281,R0046,Mishti Doi,Snack,640,Yes
+M00282,R0047,Wrap,Dessert,233,No
+M00283,R0047,Chicken Burger,Starter,422,No
+M00284,R0047,Fried Rice,Dessert,236,No
+M00285,R0047,Manchurian,Snack,216,Yes
+M00286,R0047,Hakka Noodles,Main Course,507,No
+M00287,R0048,Mughlai Paratha,Snack,256,No
+M00288,R0048,Chicken Korma,Beverage,500,Yes
+M00289,R0048,Butter Chicken,Main Course,550,No
+M00290,R0048,Pasta Alfredo,Main Course,254,Yes
+M00291,R0048,Garlic Bread,Dessert,314,Yes
+M00292,R0048,Gulab Jamun,Beverage,510,Yes
+M00293,R0048,Waffle,Starter,612,Yes
+M00294,R0049,Chicken Steak,Starter,180,No
+M00295,R0049,Veg Steak,Beverage,632,Yes
+M00296,R0049,Grilled Sandwich,Snack,382,No
+M00297,R0049,Pasta,Main Course,306,No
+M00298,R0049,Thai Green Curry,Dessert,289,Yes
+M00299,R0049,Pad Thai,Dessert,179,Yes
+M00300,R0049,Burrito,Snack,179,Yes
+M00301,R0049,Nachos,Dessert,241,Yes
+M00302,R0049,Tacos,Starter,342,Yes
+M00303,R0050,Andhra Meals,Beverage,228,No
+M00304,R0050,Chicken Fry,Starter,435,Yes
+M00305,R0050,Gongura Chicken,Beverage,314,Yes
+M00306,R0051,Pasta,Main Course,644,No
+M00307,R0051,Veg Steak,Dessert,637,Yes
+M00308,R0051,Kosha Mangsho,Main Course,477,No
+M00309,R0051,Luchi,Snack,466,Yes
+M00310,R0051,Garlic Bread,Dessert,250,Yes
+M00311,R0051,Lasagna,Beverage,457,No
+M00312,R0051,Pasta Alfredo,Main Course,309,Yes
+M00313,R0052,Thai Green Curry,Beverage,581,Yes
+M00314,R0052,Pad Thai,Main Course,254,No
+M00315,R0052,Spring Rolls,Starter,500,No
+M00316,R0052,Tom Yum,Dessert,112,Yes
+M00317,R0053,Quesadilla,Beverage,607,No
+M00318,R0053,Burrito,Snack,452,No
+M00319,R0053,Tacos,Dessert,307,Yes
+M00320,R0053,Spring Rolls,Snack,304,Yes
+M00321,R0053,Manchurian,Starter,583,No
+M00322,R0053,Hakka Noodles,Dessert,293,Yes
+M00323,R0053,Fried Rice,Beverage,274,Yes
+M00324,R0053,Tom Yum,Beverage,284,Yes
+M00325,R0053,Spring Rolls,Beverage,550,No
+M00326,R0054,Cappuccino,Starter,513,Yes
+M00327,R0054,Club Sandwich,Beverage,357,Yes
+M00328,R0054,Cold Coffee,Starter,169,No
+M00329,R0054,Butter Naan,Starter,473,Yes
+M00330,R0054,Chole Bhature,Dessert,418,Yes
+M00331,R0054,Paneer Butter Masala,Dessert,535,Yes
+M00332,R0054,Dal Makhani,Beverage,491,Yes
+M00333,R0055,Pasta Alfredo,Beverage,181,No
+M00334,R0055,Lasagna,Beverage,648,Yes
+M00335,R0055,Garlic Bread,Starter,321,No
+M00336,R0055,Margherita Pizza,Starter,84,No
+M00337,R0055,Bisibele Bath,Main Course,501,Yes
+M00338,R0055,Masala Dosa,Main Course,94,No
+M00339,R0056,Fried Rice,Dessert,469,No
+M00340,R0056,Spring Rolls,Main Course,381,Yes
+M00341,R0057,Paneer Butter Masala,Dessert,599,Yes
+M00342,R0057,Chole Bhature,Beverage,572,Yes
+M00343,R0057,Butter Naan,Beverage,240,Yes
+M00344,R0057,Dal Makhani,Snack,412,No
+M00345,R0057,Stew,Beverage,331,No
+M00346,R0057,Appam,Snack,169,No
+M00347,R0057,Kerala Parotta,Starter,411,Yes
+M00348,R0057,Fish Curry,Dessert,353,Yes
+M00349,R0057,Chicken Biryani,Main Course,233,No
+M00350,R0057,Egg Biryani,Beverage,204,No
+M00351,R0057,Mutton Biryani,Starter,324,No
+M00352,R0057,Veg Biryani,Main Course,326,Yes
+M00353,R0058,Cappuccino,Beverage,574,No
+M00354,R0058,Club Sandwich,Starter,506,Yes
+M00355,R0058,Andhra Meals,Dessert,165,No
+M00356,R0058,Chicken Fry,Starter,500,No
+M00357,R0059,Ice Cream,Snack,249,Yes
+M00358,R0059,Brownie,Beverage,401,Yes
+M00359,R0059,Andhra Meals,Dessert,234,Yes
+M00360,R0059,Gongura Chicken,Dessert,530,No
+M00361,R0059,Pulihora,Dessert,252,No
+M00362,R0059,Chicken Fry,Beverage,344,No
+M00363,R0060,Quesadilla,Starter,406,Yes
+M00364,R0060,Tacos,Snack,483,Yes
+M00365,R0060,Burrito,Dessert,438,Yes
+M00366,R0060,Nachos,Main Course,96,Yes
+M00367,R0060,Spring Rolls,Dessert,170,No
+M00368,R0060,Thai Green Curry,Beverage,193,Yes
+M00369,R0060,Tom Yum,Main Course,233,Yes
+M00370,R0060,Chicken Fry,Starter,184,Yes
+M00371,R0060,Andhra Meals,Main Course,272,Yes
+M00372,R0060,Pulihora,Main Course,335,Yes
+M00373,R0060,Gongura Chicken,Snack,178,No
+M00374,R0061,Idli,Beverage,278,Yes
+M00375,R0061,Masala Dosa,Main Course,631,Yes
+M00376,R0061,Bisibele Bath,Dessert,541,No
+M00377,R0061,Chicken Korma,Beverage,188,Yes
+M00378,R0061,Butter Chicken,Starter,447,Yes
+M00379,R0061,Seekh Kebab,Beverage,573,Yes
+M00380,R0061,Mughlai Paratha,Snack,350,Yes
+M00381,R0061,Chicken Burger,Snack,119,Yes
+M00382,R0061,Wrap,Dessert,243,No
+M00383,R0062,Chicken Korma,Snack,369,Yes
+M00384,R0062,Seekh Kebab,Starter,550,Yes
+M00385,R0062,Idli,Dessert,588,Yes
+M00386,R0062,Vada,Starter,645,No
+M00387,R0062,Bisibele Bath,Dessert,470,Yes
+M00388,R0062,Masala Dosa,Dessert,396,No
+M00389,R0063,Andhra Meals,Beverage,117,Yes
+M00390,R0063,Gongura Chicken,Beverage,248,Yes
+M00391,R0063,Pulihora,Dessert,422,No
+M00392,R0063,Chicken Fry,Main Course,621,No
+M00393,R0063,Mughlai Paratha,Starter,461,No
+M00394,R0063,Butter Chicken,Snack,126,No
+M00395,R0063,Veg Biryani,Dessert,351,Yes
+M00396,R0063,Chicken Biryani,Snack,281,No
+M00397,R0063,Mutton Biryani,Snack,241,Yes
+M00398,R0063,Egg Biryani,Starter,559,No
+M00399,R0064,Veg Biryani,Beverage,190,Yes
+M00400,R0064,Mutton Biryani,Starter,181,Yes
+M00401,R0064,Egg Biryani,Starter,270,Yes
+M00402,R0064,Gongura Chicken,Main Course,183,Yes
+M00403,R0064,Pulihora,Snack,277,Yes
+M00404,R0064,Andhra Meals,Main Course,246,Yes
+M00405,R0064,Chicken Fry,Starter,497,Yes
+M00406,R0064,Cold Coffee,Beverage,387,Yes
+M00407,R0064,Club Sandwich,Snack,416,Yes
+M00408,R0065,Dal Makhani,Starter,553,Yes
+M00409,R0065,Paneer Butter Masala,Beverage,623,Yes
+M00410,R0066,Gulab Jamun,Beverage,498,No
+M00411,R0066,Waffle,Main Course,349,Yes
+M00412,R0066,Ice Cream,Main Course,394,Yes
+M00413,R0066,Garlic Bread,Starter,247,Yes
+M00414,R0066,Margherita Pizza,Dessert,272,Yes
+M00415,R0066,Hakka Noodles,Dessert,319,No
+M00416,R0066,Fried Rice,Snack,634,No
+M00417,R0066,Manchurian,Starter,174,No
+M00418,R0066,Spring Rolls,Beverage,230,No
+M00419,R0067,Veg Steak,Snack,258,Yes
+M00420,R0067,Chicken Steak,Main Course,579,No
+M00421,R0067,Grilled Sandwich,Beverage,192,No
+M00422,R0067,Kerala Parotta,Snack,219,Yes
+M00423,R0067,Stew,Starter,596,Yes
+M00424,R0067,Fish Curry,Beverage,148,No
+M00425,R0068,Tom Yum,Starter,98,No
+M00426,R0068,Spring Rolls,Dessert,529,No
+M00427,R0068,Thai Green Curry,Beverage,368,Yes
+M00428,R0068,Pad Thai,Beverage,470,Yes
+M00429,R0069,Chole Bhature,Dessert,483,Yes
+M00430,R0069,Paneer Butter Masala,Main Course,440,Yes
+M00431,R0069,Butter Naan,Starter,471,No
+M00432,R0069,Dal Makhani,Dessert,281,Yes
+M00433,R0070,Lasagna,Beverage,397,Yes
+M00434,R0070,Margherita Pizza,Dessert,161,No
+M00435,R0070,Garlic Bread,Beverage,504,Yes
+M00436,R0070,Mishti Doi,Snack,177,Yes
+M00437,R0070,Kosha Mangsho,Snack,287,No
+M00438,R0070,Luchi,Beverage,245,No
+M00439,R0070,Fish Curry,Main Course,518,Yes
+M00440,R0071,Egg Biryani,Beverage,632,No
+M00441,R0071,Mutton Biryani,Beverage,187,Yes
+M00442,R0071,Veg Biryani,Beverage,562,Yes
+M00443,R0071,Chicken Biryani,Main Course,493,Yes
+M00444,R0071,Fish Curry,Snack,152,Yes
+M00445,R0071,Kosha Mangsho,Starter,522,No
+M00446,R0071,Luchi,Snack,587,No
+M00447,R0072,Burrito,Main Course,345,Yes
+M00448,R0072,Nachos,Snack,639,Yes
+M00449,R0072,Chicken Korma,Main Course,493,Yes
+M00450,R0072,Butter Chicken,Dessert,363,Yes
+M00451,R0072,Gongura Chicken,Starter,243,Yes
+M00452,R0072,Chicken Fry,Starter,499,Yes
+M00453,R0073,Brownie,Starter,449,Yes
+M00454,R0073,Ice Cream,Snack,133,Yes
+M00455,R0074,Dal Makhani,Starter,446,Yes
+M00456,R0074,Paneer Butter Masala,Beverage,458,Yes
+M00457,R0074,Chole Bhature,Starter,327,No
+M00458,R0074,Chicken Burger,Main Course,291,Yes
+M00459,R0074,Wrap,Starter,230,Yes
+M00460,R0074,Mishti Doi,Starter,445,Yes
+M00461,R0074,Fish Curry,Snack,375,Yes
+M00462,R0074,Luchi,Dessert,393,Yes
+M00463,R0074,Kosha Mangsho,Snack,607,No
+M00464,R0075,Chicken Biryani,Main Course,629,Yes
+M00465,R0075,Mutton Biryani,Snack,243,Yes
+M00466,R0075,Veg Biryani,Dessert,583,Yes
+M00467,R0075,Brownie,Starter,573,Yes
+M00468,R0075,Waffle,Main Course,152,Yes
+M00469,R0075,Gulab Jamun,Dessert,469,Yes
+M00470,R0076,Spring Rolls,Beverage,628,Yes
+M00471,R0076,Manchurian,Main Course,647,Yes
+M00472,R0076,French Fries,Snack,202,No
+M00473,R0076,Wrap,Main Course,499,No
+M00474,R0077,Spring Rolls,Main Course,142,No
+M00475,R0077,Manchurian,Snack,264,Yes
+M00476,R0077,Fried Rice,Beverage,293,No
+M00477,R0077,Hakka Noodles,Dessert,167,No
+M00478,R0077,Thai Green Curry,Main Course,200,Yes
+M00479,R0077,Tom Yum,Dessert,100,No
+M00480,R0077,Spring Rolls,Snack,382,No
+M00481,R0077,Pad Thai,Snack,148,Yes
+M00482,R0078,Lasagna,Starter,356,Yes
+M00483,R0078,Margherita Pizza,Main Course,131,No
+M00484,R0078,Pasta Alfredo,Starter,390,No
+M00485,R0078,Garlic Bread,Dessert,627,No
+M00486,R0078,Chicken Steak,Starter,292,Yes
+M00487,R0078,Pasta,Starter,85,Yes
+M00488,R0078,Veg Steak,Dessert,626,Yes
+M00489,R0078,Veg Biryani,Dessert,505,Yes
+M00490,R0078,Egg Biryani,Starter,155,Yes
+M00491,R0078,Chicken Biryani,Snack,493,Yes
+M00492,R0078,Mutton Biryani,Starter,364,Yes
+M00493,R0079,Chicken Steak,Beverage,574,No
+M00494,R0079,Veg Steak,Dessert,480,Yes
+M00495,R0079,French Fries,Dessert,97,No
+M00496,R0079,Chicken Burger,Starter,493,Yes
+M00497,R0079,Veg Burger,Snack,495,Yes
+M00498,R0079,Wrap,Main Course,578,No
+M00499,R0079,Andhra Meals,Snack,313,No
+M00500,R0079,Chicken Fry,Snack,285,Yes
+M00501,R0079,Pulihora,Snack,197,Yes
+M00502,R0080,Gulab Jamun,Starter,254,Yes
+M00503,R0080,Brownie,Starter,98,Yes
+M00504,R0080,Ice Cream,Snack,409,Yes
+M00505,R0080,Tom Yum,Main Course,433,Yes
+M00506,R0080,Spring Rolls,Dessert,172,No
+M00507,R0080,Pad Thai,Dessert,639,Yes
+M00508,R0080,Thai Green Curry,Dessert,396,Yes
+M00509,R0080,Luchi,Dessert,404,No
+M00510,R0080,Fish Curry,Starter,530,Yes
+M00511,R0080,Mishti Doi,Main Course,182,Yes
+M00512,R0080,Kosha Mangsho,Starter,608,Yes
+M00513,R0081,Chicken Burger,Dessert,495,No
+M00514,R0081,Wrap,Beverage,223,Yes
+M00515,R0082,Luchi,Starter,172,Yes
+M00516,R0082,Mishti Doi,Starter,578,No
+M00517,R0082,Fish Curry,Snack,278,No
+M00518,R0082,Brownie,Starter,508,Yes
+M00519,R0082,Gulab Jamun,Snack,218,Yes
+M00520,R0082,Spring Rolls,Main Course,514,No
+M00521,R0082,Tom Yum,Main Course,613,No
+M00522,R0082,Pad Thai,Beverage,264,No
+M00523,R0083,Manchurian,Dessert,161,No
+M00524,R0083,Fried Rice,Dessert,636,No
+M00525,R0083,Hakka Noodles,Beverage,300,Yes
+M00526,R0083,Spring Rolls,Main Course,402,Yes
+M00527,R0083,Brownie,Snack,586,Yes
+M00528,R0083,Ice Cream,Beverage,201,Yes
+M00529,R0083,Waffle,Snack,175,Yes
+M00530,R0083,Gulab Jamun,Snack,493,Yes
+M00531,R0083,Stew,Beverage,203,No
+M00532,R0083,Fish Curry,Dessert,583,Yes
+M00533,R0083,Appam,Starter,215,Yes
+M00534,R0084,Butter Naan,Dessert,559,No
+M00535,R0084,Chole Bhature,Beverage,434,Yes
+M00536,R0084,Paneer Butter Masala,Snack,123,Yes
+M00537,R0084,Chicken Korma,Starter,299,No
+M00538,R0084,Mughlai Paratha,Dessert,521,Yes
+M00539,R0084,Kerala Parotta,Main Course,569,Yes
+M00540,R0084,Appam,Dessert,549,No
+M00541,R0084,Stew,Main Course,524,Yes
+M00542,R0084,Fish Curry,Snack,133,No
+M00543,R0085,Veg Steak,Main Course,379,Yes
+M00544,R0085,Pasta,Snack,286,No
+M00545,R0085,Chicken Steak,Starter,593,No
+M00546,R0085,Grilled Sandwich,Beverage,450,No
+M00547,R0085,Andhra Meals,Starter,463,No
+M00548,R0085,Pulihora,Starter,318,Yes
+M00549,R0085,Chicken Fry,Snack,301,Yes
+M00550,R0085,Gongura Chicken,Starter,235,Yes
+M00551,R0085,Kosha Mangsho,Beverage,516,Yes
+M00552,R0085,Luchi,Beverage,559,Yes
+M00553,R0085,Fish Curry,Beverage,419,No
+M00554,R0086,Veg Steak,Dessert,484,Yes
+M00555,R0086,Pasta,Snack,596,No
+M00556,R0087,Spring Rolls,Snack,583,No
+M00557,R0087,Pad Thai,Dessert,534,No
+M00558,R0087,Tom Yum,Dessert,309,No
+M00559,R0087,Mughlai Paratha,Dessert,629,No
+M00560,R0087,Chicken Korma,Snack,355,No
+M00561,R0087,Seekh Kebab,Snack,170,No
+M00562,R0087,Chicken Fry,Snack,430,Yes
+M00563,R0087,Andhra Meals,Dessert,538,Yes
+M00564,R0088,Cheesecake,Beverage,383,Yes
+M00565,R0088,Cappuccino,Snack,245,Yes
+M00566,R0088,Fish Curry,Beverage,286,No
+M00567,R0088,Appam,Snack,521,Yes
+M00568,R0088,Kerala Parotta,Snack,287,Yes
+M00569,R0089,French Fries,Starter,147,Yes
+M00570,R0089,Wrap,Dessert,462,Yes
+M00571,R0090,Club Sandwich,Snack,355,No
+M00572,R0090,Cappuccino,Snack,619,Yes
+M00573,R0090,Cheesecake,Snack,642,Yes
+M00574,R0090,Cold Coffee,Beverage,641,No
+M00575,R0090,Quesadilla,Starter,93,Yes
+M00576,R0090,Nachos,Snack,268,Yes
+M00577,R0090,Burrito,Main Course,234,Yes
+M00578,R0091,Quesadilla,Dessert,422,Yes
+M00579,R0091,Tacos,Snack,590,Yes
+M00580,R0091,Nachos,Starter,261,Yes
+M00581,R0092,Butter Chicken,Beverage,272,Yes
+M00582,R0092,Chicken Korma,Beverage,485,No
+M00583,R0092,Seekh Kebab,Main Course,172,No
+M00584,R0092,Andhra Meals,Starter,454,Yes
+M00585,R0092,Pulihora,Snack,286,No
+M00586,R0092,Chicken Fry,Beverage,301,No
+M00587,R0093,Brownie,Dessert,517,Yes
+M00588,R0093,Ice Cream,Main Course,229,Yes
+M00589,R0093,Gulab Jamun,Beverage,87,Yes
+M00590,R0093,Waffle,Main Course,419,Yes
+M00591,R0094,Chicken Korma,Snack,598,No
+M00592,R0094,Seekh Kebab,Dessert,318,No
+M00593,R0094,Mughlai Paratha,Snack,260,Yes
+M00594,R0094,Butter Chicken,Starter,258,No
+M00595,R0095,Wrap,Starter,343,Yes
+M00596,R0095,French Fries,Dessert,445,No
+M00597,R0095,Chole Bhature,Starter,143,No
+M00598,R0095,Dal Makhani,Dessert,573,Yes
+M00599,R0095,Butter Naan,Main Course,150,No
+M00600,R0095,Paneer Butter Masala,Main Course,355,Yes
+M00601,R0095,Margherita Pizza,Beverage,564,No
+M00602,R0095,Lasagna,Snack,375,No
+M00603,R0095,Garlic Bread,Snack,189,No
+M00604,R0096,Veg Biryani,Beverage,128,Yes
+M00605,R0096,Chicken Biryani,Beverage,92,No
+M00606,R0096,Masala Dosa,Main Course,245,Yes
+M00607,R0096,Vada,Main Course,110,Yes
+M00608,R0096,Brownie,Dessert,271,Yes
+M00609,R0096,Ice Cream,Main Course,503,Yes
+M00610,R0096,Gulab Jamun,Snack,191,No
+M00611,R0096,Waffle,Starter,144,Yes
+M00612,R0097,Paneer Butter Masala,Starter,518,Yes
+M00613,R0097,Dal Makhani,Main Course,260,No
+M00614,R0097,Chole Bhature,Main Course,168,No
+M00615,R0097,Butter Naan,Main Course,450,No
+M00616,R0098,Garlic Bread,Dessert,111,Yes
+M00617,R0098,Margherita Pizza,Beverage,297,Yes
+M00618,R0099,Fried Rice,Starter,526,No
+M00619,R0099,Spring Rolls,Beverage,117,Yes
+M00620,R0099,Cheesecake,Main Course,518,Yes
+M00621,R0099,Cold Coffee,Beverage,266,Yes
+M00622,R0099,Club Sandwich,Dessert,308,No
+M00623,R0099,Cappuccino,Snack,267,No
+M00624,R0100,Pad Thai,Beverage,630,No
+M00625,R0100,Tom Yum,Starter,266,No
+M00626,R0100,Thai Green Curry,Beverage,132,No

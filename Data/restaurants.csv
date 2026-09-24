@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,restaurant_type,rating,votes,approx_cost_for_two,online_order,table_booking,location_id
+R0001,Food Cafe,Fine Dining,3.5,496,1000,Yes,No,L015
+R0002,The Corner,Casual Dining,4.1,799,1200,No,Yes,L003
+R0003,Urban Tadka,Casual Dining,2.9,2077,500,No,Yes,L012
+R0004,House Treats,Cafe,4.3,1297,1200,Yes,No,L019
+R0005,Food Hub,Casual Dining,3.7,1393,500,Yes,Yes,L009
+R0006,Cafe Eats,Food Court,4.4,1985,300,Yes,No,L003
+R0007,Taste Restaurant,Quick Bites,3.0,1025,800,Yes,No,L010
+R0008,Kitchen Grill,Bakery,3.5,367,1000,No,No,L008
+R0009,Basil Diner,Casual Dining,4.0,1182,500,Yes,Yes,L015
+R0010,Bangalore Kitchen,Fine Dining,3.9,2366,400,Yes,No,L008
+R0011,Street Tadka,Bakery,3.6,532,1000,Yes,No,L007
+R0012,Blue Corner,Cafe,3.9,1515,400,No,No,L003
+R0013,Street Eats,Casual Dining,3.4,893,1000,Yes,No,L015
+R0014,The Treats,Casual Dining,3.9,1708,400,Yes,No,L005
+R0015,Food Express,Casual Dining,4.4,1081,500,Yes,No,L019
+R0016,Copper Table,Food Court,4.1,1438,200,Yes,Yes,L007
+R0017,Royal Grill,Quick Bites,3.4,1287,500,Yes,Yes,L006
+R0018,Street Cafe,Casual Dining,3.8,593,500,Yes,No,L017
+R0019,Fusion Hub,Food Court,3.8,1789,200,Yes,No,L017
+R0020,Blue Table,Casual Dining,4.0,865,1000,No,Yes,L006
+R0021,Taste Corner,Quick Bites,4.3,2221,200,Yes,No,L005
+R0022,Garden Bowl,Quick Bites,4.9,1985,400,Yes,No,L003
+R0023,Namma Grill,Food Court,4.2,670,400,Yes,Yes,L020
+R0024,Grand House,Quick Bites,2.9,2423,1200,Yes,No,L007
+R0025,Spice Kitchen,Food Court,4.5,2086,200,Yes,No,L016
+R0026,Royal Cafe,Quick Bites,4.1,616,200,Yes,No,L001
+R0027,Namma Treats,Cafe,3.6,986,200,Yes,Yes,L003
+R0028,Kitchen Hub,Fine Dining,3.5,1949,1200,No,No,L016
+R0029,Bangalore Restaurant,Quick Bites,4.0,1829,400,Yes,No,L014
+R0030,House Kitchen,Casual Dining,4.2,845,400,Yes,No,L005
+R0031,Fusion Tadka,Food Court,3.9,210,1000,No,No,L014
+R0032,Urban House,Quick Bites,4.3,1788,800,Yes,No,L018
+R0033,Flame Eats,Casual Dining,3.5,275,1200,Yes,Yes,L002
+R0034,Royal Bites,Casual Dining,3.5,65,600,Yes,Yes,L013
+R0035,Kitchen Treats,Bakery,4.0,1853,1000,Yes,No,L012
+R0036,Fusion Cafe,Bakery,3.8,1107,400,Yes,No,L010
+R0037,Blue Tadka,Cafe,3.8,76,400,Yes,No,L005
+R0038,Basil Bites,Cafe,4.2,686,1200,Yes,No,L010
+R0039,Green Table,Quick Bites,3.3,1171,1200,Yes,No,L009
+R0040,Urban Bowl,Quick Bites,3.8,610,800,Yes,Yes,L007
+R0041,Garden House,Casual Dining,3.7,1038,800,No,No,L005
+R0042,Garden Hub,Cafe,3.9,1787,600,Yes,No,L007
+R0043,Green Cafe,Casual Dining,4.9,545,1200,Yes,No,L002
+R0044,Namma Corner,Cafe,4.0,2457,200,Yes,No,L012
+R0045,Green Tadka,Bakery,3.5,314,600,Yes,No,L003
+R0046,Bangalore Bites,Cafe,4.3,119,1200,Yes,No,L003
+R0047,Spice House,Cafe,3.5,442,1200,Yes,No,L009
+R0048,The Table,Fine Dining,4.6,2269,400,No,No,L005
+R0049,Flame Kitchen,Quick Bites,4.1,1578,1000,No,Yes,L007
+R0050,Fusion Kitchen,Bakery,4.5,1395,600,No,No,L020
+R0051,Blue Bowl,Bakery,4.2,880,300,Yes,No,L009
+R0052,Royal Tadka,Quick Bites,3.9,1197,200,Yes,No,L020
+R0053,Food Treats,Fine Dining,4.8,780,500,Yes,No,L005
+R0054,Fusion Bowl,Casual Dining,4.2,1706,1200,Yes,No,L006
+R0055,Spice Hub,Casual Dining,4.5,1395,500,Yes,No,L005
+R0056,Basil Cafe,Cafe,4.1,1840,600,Yes,No,L004
+R0057,Grand Table,Casual Dining,3.9,1273,800,Yes,Yes,L019
+R0058,Street Grill,Quick Bites,4.0,2425,800,Yes,No,L001
+R0059,Urban Restaurant,Bakery,4.0,844,600,Yes,No,L006
+R0060,Royal House,Casual Dining,4.2,2124,200,Yes,Yes,L020
+R0061,Urban Hub,Food Court,4.9,1061,300,Yes,No,L003
+R0062,Flame Tadka,Food Court,3.6,1976,800,Yes,Yes,L005
+R0063,Namma Bowl,Casual Dining,3.4,827,300,Yes,Yes,L016
+R0064,Urban Bites,Casual Dining,4.8,882,300,Yes,No,L015
+R0065,Street House,Casual Dining,4.1,1698,800,No,No,L001
+R0066,Kitchen Diner,Casual Dining,3.8,714,600,Yes,No,L014
+R0067,Cafe Bites,Casual Dining,2.5,800,400,Yes,No,L008
+R0068,Blue Hub,Casual Dining,3.9,1282,600,Yes,No,L017
+R0069,Food Restaurant,Cafe,3.2,476,300,Yes,No,L002
+R0070,House Tadka,Bakery,4.6,2210,600,Yes,No,L010
+R0071,Grand Kitchen,Cafe,4.0,234,800,Yes,Yes,L020
+R0072,Bangalore Eats,Casual Dining,4.2,1965,1200,Yes,No,L016
+R0073,Flame Bowl,Casual Dining,3.8,1458,800,Yes,No,L019
+R0074,Kitchen Bites,Quick Bites,3.6,1866,400,Yes,No,L017
+R0075,House Corner,Food Court,3.9,1310,1200,Yes,Yes,L011
+R0076,House Eats,Quick Bites,3.9,2155,1200,Yes,Yes,L014
+R0077,Bangalore Grill,Bakery,4.9,1936,1000,Yes,No,L003
+R0078,Grand Grill,Casual Dining,4.5,155,500,Yes,No,L017
+R0079,Royal Diner,Cafe,4.7,652,1200,Yes,No,L013
+R0080,Grand Diner,Cafe,4.3,1335,1200,Yes,No,L005
+R0081,Basil Restaurant,Food Court,3.9,2427,1000,Yes,No,L005
+R0082,Cafe Hub,Food Court,3.0,35,300,Yes,No,L004
+R0083,House Restaurant,Cafe,4.4,223,1000,Yes,No,L017
+R0084,Basil Tadka,Casual Dining,4.3,1171,500,Yes,No,L005
+R0085,Kitchen Restaurant,Quick Bites,3.9,2336,200,Yes,No,L005
+R0086,Green Grill,Food Court,4.2,2090,1200,No,Yes,L010
+R0087,Green Diner,Casual Dining,4.9,1148,200,No,No,L017
+R0088,Flame Treats,Food Court,3.7,1600,200,Yes,No,L011
+R0089,Cafe Express,Fine Dining,4.2,2082,400,Yes,No,L009
+R0090,The Diner,Quick Bites,4.2,2479,1200,Yes,No,L013
+R0091,Bangalore Bowl,Quick Bites,4.9,2222,200,Yes,No,L006
+R0092,Cafe Corner,Quick Bites,3.3,227,800,Yes,No,L019
+R0093,Grand Cafe,Bakery,4.8,952,500,No,No,L015
+R0094,Green Express,Casual Dining,4.0,1887,300,Yes,No,L001
+R0095,Taste Bowl,Bakery,3.9,2124,500,Yes,No,L015
+R0096,Bangalore House,Quick Bites,3.6,1864,400,Yes,Yes,L004
+R0097,Grand Corner,Casual Dining,3.2,392,500,No,Yes,L006
+R0098,Flame Diner,Casual Dining,3.7,857,400,No,No,L001
+R0099,The Hub,Fine Dining,4.1,1958,800,Yes,Yes,L005
+R0100,Street Restaurant,Cafe,3.5,1666,600,Yes,Yes,L011
